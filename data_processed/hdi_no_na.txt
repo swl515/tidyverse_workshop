@@ -1,0 +1,5154 @@
+hdi_rank_2018 country year HDI
+170 Afghanistan x1990 0.298
+170 Afghanistan x1991 0.304
+170 Afghanistan x1992 0.312
+170 Afghanistan x1993 0.308
+170 Afghanistan x1994 0.303
+170 Afghanistan x1995 0.327
+170 Afghanistan x1996 0.331
+170 Afghanistan x1997 0.335
+170 Afghanistan x1998 0.339
+170 Afghanistan x1999 0.343
+170 Afghanistan x2000 0.345
+170 Afghanistan x2001 0.347
+170 Afghanistan x2002 0.378
+170 Afghanistan x2003 0.387
+170 Afghanistan x2004 0.4
+170 Afghanistan x2005 0.41
+170 Afghanistan x2006 0.419
+170 Afghanistan x2007 0.431
+170 Afghanistan x2008 0.436
+170 Afghanistan x2009 0.447
+170 Afghanistan x2010 0.464
+170 Afghanistan x2011 0.465
+170 Afghanistan x2012 0.479
+170 Afghanistan x2013 0.485
+170 Afghanistan x2014 0.488
+170 Afghanistan x2015 0.49
+170 Afghanistan x2016 0.491
+170 Afghanistan x2017 0.493
+170 Afghanistan x2018 0.496
+170 Afghanistan x2019 0.496
+69 Albania x1990 0.644
+69 Albania x1991 0.625
+69 Albania x1992 0.608
+69 Albania x1993 0.611
+69 Albania x1994 0.617
+69 Albania x1995 0.629
+69 Albania x1996 0.639
+69 Albania x1997 0.639
+69 Albania x1998 0.649
+69 Albania x1999 0.66
+69 Albania x2000 0.667
+69 Albania x2001 0.673
+69 Albania x2002 0.68
+69 Albania x2003 0.687
+69 Albania x2004 0.692
+69 Albania x2005 0.702
+69 Albania x2006 0.709
+69 Albania x2007 0.718
+69 Albania x2008 0.724
+69 Albania x2009 0.729
+69 Albania x2010 0.74
+69 Albania x2011 0.759
+69 Albania x2012 0.771
+69 Albania x2013 0.781
+69 Albania x2014 0.787
+69 Albania x2015 0.788
+69 Albania x2016 0.788
+69 Albania x2017 0.789
+69 Albania x2018 0.791
+69 Albania x2019 0.791
+82 Algeria x1990 0.578
+82 Algeria x1991 0.582
+82 Algeria x1992 0.589
+82 Algeria x1993 0.593
+82 Algeria x1994 0.597
+82 Algeria x1995 0.602
+82 Algeria x1996 0.61
+82 Algeria x1997 0.619
+82 Algeria x1998 0.629
+82 Algeria x1999 0.638
+82 Algeria x2000 0.646
+82 Algeria x2001 0.655
+82 Algeria x2002 0.666
+82 Algeria x2003 0.676
+82 Algeria x2004 0.685
+82 Algeria x2005 0.694
+82 Algeria x2006 0.699
+82 Algeria x2007 0.708
+82 Algeria x2008 0.711
+82 Algeria x2009 0.72
+82 Algeria x2010 0.73
+82 Algeria x2011 0.738
+82 Algeria x2012 0.737
+82 Algeria x2013 0.746
+82 Algeria x2014 0.749
+82 Algeria x2015 0.751
+82 Algeria x2016 0.755
+82 Algeria x2017 0.758
+82 Algeria x2018 0.759
+82 Algeria x2019 0.759
+36 Andorra x2000 0.759
+36 Andorra x2001 0.767
+36 Andorra x2002 0.78
+36 Andorra x2003 0.82
+36 Andorra x2004 0.826
+36 Andorra x2005 0.819
+36 Andorra x2006 0.829
+36 Andorra x2007 0.829
+36 Andorra x2008 0.831
+36 Andorra x2009 0.83
+36 Andorra x2010 0.828
+36 Andorra x2011 0.827
+36 Andorra x2012 0.849
+36 Andorra x2013 0.846
+36 Andorra x2014 0.853
+36 Andorra x2015 0.85
+36 Andorra x2016 0.854
+36 Andorra x2017 0.852
+36 Andorra x2018 0.857
+36 Andorra x2019 0.857
+149 Angola x1999 0.384
+149 Angola x2000 0.394
+149 Angola x2001 0.404
+149 Angola x2002 0.419
+149 Angola x2003 0.428
+149 Angola x2004 0.44
+149 Angola x2005 0.453
+149 Angola x2006 0.466
+149 Angola x2007 0.482
+149 Angola x2008 0.494
+149 Angola x2009 0.508
+149 Angola x2010 0.51
+149 Angola x2011 0.525
+149 Angola x2012 0.537
+149 Angola x2013 0.547
+149 Angola x2014 0.557
+149 Angola x2015 0.565
+149 Angola x2016 0.57
+149 Angola x2017 0.576
+149 Angola x2018 0.574
+149 Angola x2019 0.574
+74 Antigua and Barbuda x2005 0.773
+74 Antigua and Barbuda x2006 0.779
+74 Antigua and Barbuda x2007 0.784
+74 Antigua and Barbuda x2008 0.783
+74 Antigua and Barbuda x2009 0.776
+74 Antigua and Barbuda x2010 0.772
+74 Antigua and Barbuda x2011 0.764
+74 Antigua and Barbuda x2012 0.767
+74 Antigua and Barbuda x2013 0.767
+74 Antigua and Barbuda x2014 0.767
+74 Antigua and Barbuda x2015 0.77
+74 Antigua and Barbuda x2016 0.772
+74 Antigua and Barbuda x2017 0.774
+74 Antigua and Barbuda x2018 0.776
+74 Antigua and Barbuda x2019 0.776
+48 Argentina x1990 0.707
+48 Argentina x1991 0.714
+48 Argentina x1992 0.719
+48 Argentina x1993 0.725
+48 Argentina x1994 0.729
+48 Argentina x1995 0.731
+48 Argentina x1996 0.738
+48 Argentina x1997 0.746
+48 Argentina x1998 0.752
+48 Argentina x1999 0.763
+48 Argentina x2000 0.77
+48 Argentina x2001 0.775
+48 Argentina x2002 0.77
+48 Argentina x2003 0.775
+48 Argentina x2004 0.775
+48 Argentina x2005 0.777
+48 Argentina x2006 0.801
+48 Argentina x2007 0.806
+48 Argentina x2008 0.81
+48 Argentina x2009 0.81
+48 Argentina x2010 0.818
+48 Argentina x2011 0.823
+48 Argentina x2012 0.823
+48 Argentina x2013 0.824
+48 Argentina x2014 0.825
+48 Argentina x2015 0.828
+48 Argentina x2016 0.828
+48 Argentina x2017 0.832
+48 Argentina x2018 0.83
+48 Argentina x2019 0.83
+81 Armenia x1990 0.633
+81 Armenia x1991 0.629
+81 Armenia x1992 0.585
+81 Armenia x1993 0.59
+81 Armenia x1994 0.6
+81 Armenia x1995 0.604
+81 Armenia x1996 0.614
+81 Armenia x1997 0.625
+81 Armenia x1998 0.637
+81 Armenia x1999 0.644
+81 Armenia x2000 0.649
+81 Armenia x2001 0.653
+81 Armenia x2002 0.663
+81 Armenia x2003 0.672
+81 Armenia x2004 0.681
+81 Armenia x2005 0.694
+81 Armenia x2006 0.708
+81 Armenia x2007 0.724
+81 Armenia x2008 0.727
+81 Armenia x2009 0.724
+81 Armenia x2010 0.729
+81 Armenia x2011 0.733
+81 Armenia x2012 0.737
+81 Armenia x2013 0.743
+81 Armenia x2014 0.746
+81 Armenia x2015 0.748
+81 Armenia x2016 0.751
+81 Armenia x2017 0.758
+81 Armenia x2018 0.76
+81 Armenia x2019 0.76
+6 Australia x1990 0.866
+6 Australia x1991 0.867
+6 Australia x1992 0.868
+6 Australia x1993 0.872
+6 Australia x1994 0.875
+6 Australia x1995 0.883
+6 Australia x1996 0.886
+6 Australia x1997 0.889
+6 Australia x1998 0.892
+6 Australia x1999 0.895
+6 Australia x2000 0.898
+6 Australia x2001 0.9
+6 Australia x2002 0.903
+6 Australia x2003 0.904
+6 Australia x2004 0.907
+6 Australia x2005 0.902
+6 Australia x2006 0.905
+6 Australia x2007 0.908
+6 Australia x2008 0.922
+6 Australia x2009 0.923
+6 Australia x2010 0.926
+6 Australia x2011 0.928
+6 Australia x2012 0.932
+6 Australia x2013 0.926
+6 Australia x2014 0.929
+6 Australia x2015 0.933
+6 Australia x2016 0.935
+6 Australia x2017 0.937
+6 Australia x2018 0.938
+6 Australia x2019 0.938
+20 Austria x1990 0.795
+20 Austria x1991 0.799
+20 Austria x1992 0.805
+20 Austria x1993 0.809
+20 Austria x1994 0.813
+20 Austria x1995 0.817
+20 Austria x1996 0.82
+20 Austria x1997 0.824
+20 Austria x1998 0.828
+20 Austria x1999 0.834
+20 Austria x2000 0.838
+20 Austria x2001 0.849
+20 Austria x2002 0.838
+20 Austria x2003 0.842
+20 Austria x2004 0.849
+20 Austria x2005 0.855
+20 Austria x2006 0.861
+20 Austria x2007 0.881
+20 Austria x2008 0.884
+20 Austria x2009 0.886
+20 Austria x2010 0.895
+20 Austria x2011 0.897
+20 Austria x2012 0.899
+20 Austria x2013 0.896
+20 Austria x2014 0.904
+20 Austria x2015 0.906
+20 Austria x2016 0.909
+20 Austria x2017 0.912
+20 Austria x2018 0.914
+20 Austria x2019 0.914
+87 Azerbaijan x1995 0.612
+87 Azerbaijan x1996 0.612
+87 Azerbaijan x1997 0.618
+87 Azerbaijan x1998 0.627
+87 Azerbaijan x1999 0.634
+87 Azerbaijan x2000 0.641
+87 Azerbaijan x2001 0.649
+87 Azerbaijan x2002 0.658
+87 Azerbaijan x2003 0.667
+87 Azerbaijan x2004 0.674
+87 Azerbaijan x2005 0.681
+87 Azerbaijan x2006 0.707
+87 Azerbaijan x2007 0.712
+87 Azerbaijan x2008 0.721
+87 Azerbaijan x2009 0.734
+87 Azerbaijan x2010 0.732
+87 Azerbaijan x2011 0.731
+87 Azerbaijan x2012 0.736
+87 Azerbaijan x2013 0.741
+87 Azerbaijan x2014 0.746
+87 Azerbaijan x2015 0.749
+87 Azerbaijan x2016 0.749
+87 Azerbaijan x2017 0.752
+87 Azerbaijan x2018 0.754
+87 Azerbaijan x2019 0.754
+60 Bahamas x2000 0.787
+60 Bahamas x2001 0.788
+60 Bahamas x2002 0.79
+60 Bahamas x2003 0.789
+60 Bahamas x2004 0.79
+60 Bahamas x2005 0.791
+60 Bahamas x2006 0.794
+60 Bahamas x2007 0.794
+60 Bahamas x2008 0.794
+60 Bahamas x2009 0.793
+60 Bahamas x2010 0.795
+60 Bahamas x2011 0.795
+60 Bahamas x2012 0.797
+60 Bahamas x2013 0.797
+60 Bahamas x2014 0.796
+60 Bahamas x2015 0.799
+60 Bahamas x2016 0.8
+60 Bahamas x2017 0.804
+60 Bahamas x2018 0.805
+60 Bahamas x2019 0.805
+45 Bahrain x1990 0.736
+45 Bahrain x1991 0.755
+45 Bahrain x1992 0.756
+45 Bahrain x1993 0.764
+45 Bahrain x1994 0.768
+45 Bahrain x1995 0.775
+45 Bahrain x1996 0.779
+45 Bahrain x1997 0.781
+45 Bahrain x1998 0.784
+45 Bahrain x1999 0.786
+45 Bahrain x2000 0.792
+45 Bahrain x2001 0.792
+45 Bahrain x2002 0.792
+45 Bahrain x2003 0.793
+45 Bahrain x2004 0.792
+45 Bahrain x2005 0.792
+45 Bahrain x2006 0.793
+45 Bahrain x2007 0.796
+45 Bahrain x2008 0.796
+45 Bahrain x2009 0.794
+45 Bahrain x2010 0.796
+45 Bahrain x2011 0.798
+45 Bahrain x2012 0.8
+45 Bahrain x2013 0.807
+45 Bahrain x2014 0.81
+45 Bahrain x2015 0.834
+45 Bahrain x2016 0.839
+45 Bahrain x2017 0.839
+45 Bahrain x2018 0.838
+45 Bahrain x2019 0.838
+135 Bangladesh x1990 0.388
+135 Bangladesh x1991 0.395
+135 Bangladesh x1992 0.403
+135 Bangladesh x1993 0.411
+135 Bangladesh x1994 0.419
+135 Bangladesh x1995 0.427
+135 Bangladesh x1996 0.436
+135 Bangladesh x1997 0.444
+135 Bangladesh x1998 0.453
+135 Bangladesh x1999 0.462
+135 Bangladesh x2000 0.47
+135 Bangladesh x2001 0.479
+135 Bangladesh x2002 0.485
+135 Bangladesh x2003 0.492
+135 Bangladesh x2004 0.499
+135 Bangladesh x2005 0.506
+135 Bangladesh x2006 0.514
+135 Bangladesh x2007 0.521
+135 Bangladesh x2008 0.524
+135 Bangladesh x2009 0.535
+135 Bangladesh x2010 0.549
+135 Bangladesh x2011 0.559
+135 Bangladesh x2012 0.567
+135 Bangladesh x2013 0.572
+135 Bangladesh x2014 0.572
+135 Bangladesh x2015 0.588
+135 Bangladesh x2016 0.599
+135 Bangladesh x2017 0.609
+135 Bangladesh x2018 0.614
+135 Bangladesh x2019 0.614
+56 Barbados x1990 0.732
+56 Barbados x1991 0.733
+56 Barbados x1992 0.733
+56 Barbados x1993 0.737
+56 Barbados x1994 0.743
+56 Barbados x1995 0.747
+56 Barbados x1996 0.751
+56 Barbados x1997 0.757
+56 Barbados x1998 0.756
+56 Barbados x1999 0.764
+56 Barbados x2000 0.771
+56 Barbados x2001 0.77
+56 Barbados x2002 0.774
+56 Barbados x2003 0.778
+56 Barbados x2004 0.782
+56 Barbados x2005 0.786
+56 Barbados x2006 0.791
+56 Barbados x2007 0.796
+56 Barbados x2008 0.799
+56 Barbados x2009 0.801
+56 Barbados x2010 0.799
+56 Barbados x2011 0.802
+56 Barbados x2012 0.811
+56 Barbados x2013 0.812
+56 Barbados x2014 0.812
+56 Barbados x2015 0.812
+56 Barbados x2016 0.814
+56 Barbados x2017 0.813
+56 Barbados x2018 0.813
+56 Barbados x2019 0.813
+50 Belarus x1995 0.656
+50 Belarus x1996 0.661
+50 Belarus x1997 0.667
+50 Belarus x1998 0.671
+50 Belarus x1999 0.676
+50 Belarus x2000 0.682
+50 Belarus x2001 0.689
+50 Belarus x2002 0.696
+50 Belarus x2003 0.704
+50 Belarus x2004 0.714
+50 Belarus x2005 0.724
+50 Belarus x2006 0.74
+50 Belarus x2007 0.756
+50 Belarus x2008 0.774
+50 Belarus x2009 0.784
+50 Belarus x2010 0.792
+50 Belarus x2011 0.798
+50 Belarus x2012 0.803
+50 Belarus x2013 0.808
+50 Belarus x2014 0.811
+50 Belarus x2015 0.811
+50 Belarus x2016 0.812
+50 Belarus x2017 0.815
+50 Belarus x2018 0.817
+50 Belarus x2019 0.817
+17 Belgium x1990 0.806
+17 Belgium x1991 0.81
+17 Belgium x1992 0.825
+17 Belgium x1993 0.838
+17 Belgium x1994 0.845
+17 Belgium x1995 0.851
+17 Belgium x1996 0.857
+17 Belgium x1997 0.862
+17 Belgium x1998 0.866
+17 Belgium x1999 0.868
+17 Belgium x2000 0.873
+17 Belgium x2001 0.876
+17 Belgium x2002 0.879
+17 Belgium x2003 0.882
+17 Belgium x2004 0.885
+17 Belgium x2005 0.889
+17 Belgium x2006 0.896
+17 Belgium x2007 0.899
+17 Belgium x2008 0.899
+17 Belgium x2009 0.899
+17 Belgium x2010 0.903
+17 Belgium x2011 0.904
+17 Belgium x2012 0.905
+17 Belgium x2013 0.908
+17 Belgium x2014 0.91
+17 Belgium x2015 0.913
+17 Belgium x2016 0.915
+17 Belgium x2017 0.917
+17 Belgium x2018 0.919
+17 Belgium x2019 0.919
+103 Belize x1990 0.613
+103 Belize x1991 0.618
+103 Belize x1992 0.624
+103 Belize x1993 0.627
+103 Belize x1994 0.627
+103 Belize x1995 0.627
+103 Belize x1996 0.627
+103 Belize x1997 0.63
+103 Belize x1998 0.631
+103 Belize x1999 0.636
+103 Belize x2000 0.643
+103 Belize x2001 0.647
+103 Belize x2002 0.655
+103 Belize x2003 0.663
+103 Belize x2004 0.668
+103 Belize x2005 0.666
+103 Belize x2006 0.676
+103 Belize x2007 0.678
+103 Belize x2008 0.683
+103 Belize x2009 0.688
+103 Belize x2010 0.693
+103 Belize x2011 0.699
+103 Belize x2012 0.706
+103 Belize x2013 0.707
+103 Belize x2014 0.71
+103 Belize x2015 0.715
+103 Belize x2016 0.722
+103 Belize x2017 0.719
+103 Belize x2018 0.72
+103 Belize x2019 0.72
+163 Benin x1990 0.348
+163 Benin x1991 0.354
+163 Benin x1992 0.358
+163 Benin x1993 0.365
+163 Benin x1994 0.368
+163 Benin x1995 0.373
+163 Benin x1996 0.377
+163 Benin x1997 0.381
+163 Benin x1998 0.385
+163 Benin x1999 0.391
+163 Benin x2000 0.398
+163 Benin x2001 0.41
+163 Benin x2002 0.419
+163 Benin x2003 0.426
+163 Benin x2004 0.434
+163 Benin x2005 0.44
+163 Benin x2006 0.447
+163 Benin x2007 0.455
+163 Benin x2008 0.462
+163 Benin x2009 0.468
+163 Benin x2010 0.473
+163 Benin x2011 0.479
+163 Benin x2012 0.489
+163 Benin x2013 0.5
+163 Benin x2014 0.505
+163 Benin x2015 0.51
+163 Benin x2016 0.512
+163 Benin x2017 0.515
+163 Benin x2018 0.52
+163 Benin x2019 0.52
+134 Bhutan x2005 0.512
+134 Bhutan x2006 0.524
+134 Bhutan x2007 0.539
+134 Bhutan x2008 0.547
+134 Bhutan x2009 0.559
+134 Bhutan x2010 0.571
+134 Bhutan x2011 0.581
+134 Bhutan x2012 0.591
+134 Bhutan x2013 0.594
+134 Bhutan x2014 0.601
+134 Bhutan x2015 0.606
+134 Bhutan x2016 0.61
+134 Bhutan x2017 0.615
+134 Bhutan x2018 0.617
+134 Bhutan x2019 0.617
+114 Bolivia (Plurinational State of) x1990 0.54
+114 Bolivia (Plurinational State of) x1991 0.549
+114 Bolivia (Plurinational State of) x1992 0.555
+114 Bolivia (Plurinational State of) x1993 0.562
+114 Bolivia (Plurinational State of) x1994 0.57
+114 Bolivia (Plurinational State of) x1995 0.578
+114 Bolivia (Plurinational State of) x1996 0.585
+114 Bolivia (Plurinational State of) x1997 0.587
+114 Bolivia (Plurinational State of) x1998 0.599
+114 Bolivia (Plurinational State of) x1999 0.608
+114 Bolivia (Plurinational State of) x2000 0.616
+114 Bolivia (Plurinational State of) x2001 0.619
+114 Bolivia (Plurinational State of) x2002 0.625
+114 Bolivia (Plurinational State of) x2003 0.629
+114 Bolivia (Plurinational State of) x2004 0.63
+114 Bolivia (Plurinational State of) x2005 0.632
+114 Bolivia (Plurinational State of) x2006 0.638
+114 Bolivia (Plurinational State of) x2007 0.638
+114 Bolivia (Plurinational State of) x2008 0.647
+114 Bolivia (Plurinational State of) x2009 0.651
+114 Bolivia (Plurinational State of) x2010 0.656
+114 Bolivia (Plurinational State of) x2011 0.66
+114 Bolivia (Plurinational State of) x2012 0.663
+114 Bolivia (Plurinational State of) x2013 0.673
+114 Bolivia (Plurinational State of) x2014 0.678
+114 Bolivia (Plurinational State of) x2015 0.685
+114 Bolivia (Plurinational State of) x2016 0.692
+114 Bolivia (Plurinational State of) x2017 0.7
+114 Bolivia (Plurinational State of) x2018 0.703
+114 Bolivia (Plurinational State of) x2019 0.703
+75 Bosnia and Herzegovina x2000 0.669
+75 Bosnia and Herzegovina x2001 0.675
+75 Bosnia and Herzegovina x2002 0.681
+75 Bosnia and Herzegovina x2003 0.686
+75 Bosnia and Herzegovina x2004 0.692
+75 Bosnia and Herzegovina x2005 0.7
+75 Bosnia and Herzegovina x2006 0.706
+75 Bosnia and Herzegovina x2007 0.713
+75 Bosnia and Herzegovina x2008 0.72
+75 Bosnia and Herzegovina x2009 0.72
+75 Bosnia and Herzegovina x2010 0.714
+75 Bosnia and Herzegovina x2011 0.722
+75 Bosnia and Herzegovina x2012 0.741
+75 Bosnia and Herzegovina x2013 0.748
+75 Bosnia and Herzegovina x2014 0.754
+75 Bosnia and Herzegovina x2015 0.755
+75 Bosnia and Herzegovina x2016 0.765
+75 Bosnia and Herzegovina x2017 0.767
+75 Bosnia and Herzegovina x2018 0.769
+75 Bosnia and Herzegovina x2019 0.769
+94 Botswana x1990 0.57
+94 Botswana x1991 0.576
+94 Botswana x1992 0.574
+94 Botswana x1993 0.573
+94 Botswana x1994 0.567
+94 Botswana x1995 0.573
+94 Botswana x1996 0.572
+94 Botswana x1997 0.575
+94 Botswana x1998 0.577
+94 Botswana x1999 0.579
+94 Botswana x2000 0.578
+94 Botswana x2001 0.58
+94 Botswana x2002 0.576
+94 Botswana x2003 0.583
+94 Botswana x2004 0.589
+94 Botswana x2005 0.598
+94 Botswana x2006 0.612
+94 Botswana x2007 0.625
+94 Botswana x2008 0.638
+94 Botswana x2009 0.647
+94 Botswana x2010 0.66
+94 Botswana x2011 0.676
+94 Botswana x2012 0.687
+94 Botswana x2013 0.699
+94 Botswana x2014 0.709
+94 Botswana x2015 0.714
+94 Botswana x2016 0.719
+94 Botswana x2017 0.724
+94 Botswana x2018 0.728
+94 Botswana x2019 0.728
+79 Brazil x1990 0.613
+79 Brazil x1991 0.62
+79 Brazil x1992 0.626
+79 Brazil x1993 0.634
+79 Brazil x1994 0.642
+79 Brazil x1995 0.651
+79 Brazil x1996 0.657
+79 Brazil x1997 0.664
+79 Brazil x1998 0.67
+79 Brazil x1999 0.675
+79 Brazil x2000 0.684
+79 Brazil x2001 0.691
+79 Brazil x2002 0.698
+79 Brazil x2003 0.694
+79 Brazil x2004 0.697
+79 Brazil x2005 0.7
+79 Brazil x2006 0.701
+79 Brazil x2007 0.705
+79 Brazil x2008 0.716
+79 Brazil x2009 0.718
+79 Brazil x2010 0.726
+79 Brazil x2011 0.73
+79 Brazil x2012 0.734
+79 Brazil x2013 0.752
+79 Brazil x2014 0.755
+79 Brazil x2015 0.755
+79 Brazil x2016 0.757
+79 Brazil x2017 0.76
+79 Brazil x2018 0.761
+79 Brazil x2019 0.761
+43 Brunei Darussalam x1990 0.768
+43 Brunei Darussalam x1991 0.773
+43 Brunei Darussalam x1992 0.778
+43 Brunei Darussalam x1993 0.783
+43 Brunei Darussalam x1994 0.788
+43 Brunei Darussalam x1995 0.791
+43 Brunei Darussalam x1996 0.794
+43 Brunei Darussalam x1997 0.797
+43 Brunei Darussalam x1998 0.798
+43 Brunei Darussalam x1999 0.804
+43 Brunei Darussalam x2000 0.805
+43 Brunei Darussalam x2001 0.806
+43 Brunei Darussalam x2002 0.809
+43 Brunei Darussalam x2003 0.815
+43 Brunei Darussalam x2004 0.82
+43 Brunei Darussalam x2005 0.824
+43 Brunei Darussalam x2006 0.827
+43 Brunei Darussalam x2007 0.827
+43 Brunei Darussalam x2008 0.828
+43 Brunei Darussalam x2009 0.831
+43 Brunei Darussalam x2010 0.832
+43 Brunei Darussalam x2011 0.836
+43 Brunei Darussalam x2012 0.843
+43 Brunei Darussalam x2013 0.844
+43 Brunei Darussalam x2014 0.845
+43 Brunei Darussalam x2015 0.843
+43 Brunei Darussalam x2016 0.844
+43 Brunei Darussalam x2017 0.843
+43 Brunei Darussalam x2018 0.845
+43 Brunei Darussalam x2019 0.845
+52 Bulgaria x1990 0.694
+52 Bulgaria x1991 0.691
+52 Bulgaria x1992 0.691
+52 Bulgaria x1993 0.69
+52 Bulgaria x1994 0.691
+52 Bulgaria x1995 0.697
+52 Bulgaria x1996 0.703
+52 Bulgaria x1997 0.704
+52 Bulgaria x1998 0.71
+52 Bulgaria x1999 0.709
+52 Bulgaria x2000 0.712
+52 Bulgaria x2001 0.722
+52 Bulgaria x2002 0.729
+52 Bulgaria x2003 0.738
+52 Bulgaria x2004 0.745
+52 Bulgaria x2005 0.75
+52 Bulgaria x2006 0.756
+52 Bulgaria x2007 0.764
+52 Bulgaria x2008 0.771
+52 Bulgaria x2009 0.774
+52 Bulgaria x2010 0.779
+52 Bulgaria x2011 0.782
+52 Bulgaria x2012 0.786
+52 Bulgaria x2013 0.792
+52 Bulgaria x2014 0.797
+52 Bulgaria x2015 0.807
+52 Bulgaria x2016 0.812
+52 Bulgaria x2017 0.813
+52 Bulgaria x2018 0.816
+52 Bulgaria x2019 0.816
+182 Burkina Faso x2000 0.286
+182 Burkina Faso x2001 0.29
+182 Burkina Faso x2002 0.296
+182 Burkina Faso x2003 0.303
+182 Burkina Faso x2004 0.312
+182 Burkina Faso x2005 0.324
+182 Burkina Faso x2006 0.333
+182 Burkina Faso x2007 0.344
+182 Burkina Faso x2008 0.357
+182 Burkina Faso x2009 0.366
+182 Burkina Faso x2010 0.375
+182 Burkina Faso x2011 0.385
+182 Burkina Faso x2012 0.394
+182 Burkina Faso x2013 0.401
+182 Burkina Faso x2014 0.405
+182 Burkina Faso x2015 0.413
+182 Burkina Faso x2016 0.42
+182 Burkina Faso x2017 0.429
+182 Burkina Faso x2018 0.434
+182 Burkina Faso x2019 0.434
+185 Burundi x1990 0.295
+185 Burundi x1991 0.298
+185 Burundi x1992 0.294
+185 Burundi x1993 0.294
+185 Burundi x1994 0.291
+185 Burundi x1995 0.287
+185 Burundi x1996 0.283
+185 Burundi x1997 0.283
+185 Burundi x1998 0.287
+185 Burundi x1999 0.288
+185 Burundi x2000 0.293
+185 Burundi x2001 0.294
+185 Burundi x2002 0.304
+185 Burundi x2003 0.312
+185 Burundi x2004 0.322
+185 Burundi x2005 0.329
+185 Burundi x2006 0.351
+185 Burundi x2007 0.363
+185 Burundi x2008 0.375
+185 Burundi x2009 0.391
+185 Burundi x2010 0.402
+185 Burundi x2011 0.41
+185 Burundi x2012 0.416
+185 Burundi x2013 0.422
+185 Burundi x2014 0.429
+185 Burundi x2015 0.427
+185 Burundi x2016 0.427
+185 Burundi x2017 0.421
+185 Burundi x2018 0.423
+185 Burundi x2019 0.423
+165 Côte d'Ivoire x1990 0.391
+165 Côte d'Ivoire x1991 0.393
+165 Côte d'Ivoire x1992 0.393
+165 Côte d'Ivoire x1993 0.393
+165 Côte d'Ivoire x1994 0.395
+165 Côte d'Ivoire x1995 0.397
+165 Côte d'Ivoire x1996 0.401
+165 Côte d'Ivoire x1997 0.403
+165 Côte d'Ivoire x1998 0.403
+165 Côte d'Ivoire x1999 0.408
+165 Côte d'Ivoire x2000 0.407
+165 Côte d'Ivoire x2001 0.408
+165 Côte d'Ivoire x2002 0.409
+165 Côte d'Ivoire x2003 0.411
+165 Côte d'Ivoire x2004 0.417
+165 Côte d'Ivoire x2005 0.425
+165 Côte d'Ivoire x2006 0.43
+165 Côte d'Ivoire x2007 0.435
+165 Côte d'Ivoire x2008 0.441
+165 Côte d'Ivoire x2009 0.448
+165 Côte d'Ivoire x2010 0.454
+165 Côte d'Ivoire x2011 0.457
+165 Côte d'Ivoire x2012 0.467
+165 Côte d'Ivoire x2013 0.475
+165 Côte d'Ivoire x2014 0.478
+165 Côte d'Ivoire x2015 0.494
+165 Côte d'Ivoire x2016 0.508
+165 Côte d'Ivoire x2017 0.512
+165 Côte d'Ivoire x2018 0.516
+165 Côte d'Ivoire x2019 0.516
+126 Cabo Verde x2000 0.564
+126 Cabo Verde x2001 0.566
+126 Cabo Verde x2002 0.576
+126 Cabo Verde x2003 0.58
+126 Cabo Verde x2004 0.586
+126 Cabo Verde x2005 0.592
+126 Cabo Verde x2006 0.606
+126 Cabo Verde x2007 0.615
+126 Cabo Verde x2008 0.622
+126 Cabo Verde x2009 0.623
+126 Cabo Verde x2010 0.626
+126 Cabo Verde x2011 0.633
+126 Cabo Verde x2012 0.634
+126 Cabo Verde x2013 0.641
+126 Cabo Verde x2014 0.641
+126 Cabo Verde x2015 0.643
+126 Cabo Verde x2016 0.645
+126 Cabo Verde x2017 0.647
+126 Cabo Verde x2018 0.651
+126 Cabo Verde x2019 0.651
+146 Cambodia x1990 0.384
+146 Cambodia x1991 0.388
+146 Cambodia x1992 0.393
+146 Cambodia x1993 0.397
+146 Cambodia x1994 0.374
+146 Cambodia x1995 0.387
+146 Cambodia x1996 0.391
+146 Cambodia x1997 0.397
+146 Cambodia x1998 0.402
+146 Cambodia x1999 0.407
+146 Cambodia x2000 0.419
+146 Cambodia x2001 0.434
+146 Cambodia x2002 0.453
+146 Cambodia x2003 0.466
+146 Cambodia x2004 0.478
+146 Cambodia x2005 0.49
+146 Cambodia x2006 0.502
+146 Cambodia x2007 0.516
+146 Cambodia x2008 0.521
+146 Cambodia x2009 0.524
+146 Cambodia x2010 0.535
+146 Cambodia x2011 0.542
+146 Cambodia x2012 0.548
+146 Cambodia x2013 0.555
+146 Cambodia x2014 0.561
+146 Cambodia x2015 0.566
+146 Cambodia x2016 0.572
+146 Cambodia x2017 0.578
+146 Cambodia x2018 0.581
+146 Cambodia x2019 0.581
+150 Cameroon x1990 0.445
+150 Cameroon x1991 0.442
+150 Cameroon x1992 0.438
+150 Cameroon x1993 0.432
+150 Cameroon x1994 0.43
+150 Cameroon x1995 0.429
+150 Cameroon x1996 0.428
+150 Cameroon x1997 0.429
+150 Cameroon x1998 0.434
+150 Cameroon x1999 0.434
+150 Cameroon x2000 0.439
+150 Cameroon x2001 0.455
+150 Cameroon x2002 0.457
+150 Cameroon x2003 0.463
+150 Cameroon x2004 0.468
+150 Cameroon x2005 0.469
+150 Cameroon x2006 0.47
+150 Cameroon x2007 0.481
+150 Cameroon x2008 0.489
+150 Cameroon x2009 0.497
+150 Cameroon x2010 0.471
+150 Cameroon x2011 0.513
+150 Cameroon x2012 0.524
+150 Cameroon x2013 0.531
+150 Cameroon x2014 0.54
+150 Cameroon x2015 0.548
+150 Cameroon x2016 0.556
+150 Cameroon x2017 0.56
+150 Cameroon x2018 0.563
+150 Cameroon x2019 0.563
+13 Canada x1990 0.85
+13 Canada x1991 0.853
+13 Canada x1992 0.856
+13 Canada x1993 0.854
+13 Canada x1994 0.859
+13 Canada x1995 0.861
+13 Canada x1996 0.863
+13 Canada x1997 0.863
+13 Canada x1998 0.861
+13 Canada x1999 0.864
+13 Canada x2000 0.868
+13 Canada x2001 0.872
+13 Canada x2002 0.877
+13 Canada x2003 0.882
+13 Canada x2004 0.887
+13 Canada x2005 0.892
+13 Canada x2006 0.895
+13 Canada x2007 0.891
+13 Canada x2008 0.893
+13 Canada x2009 0.893
+13 Canada x2010 0.895
+13 Canada x2011 0.899
+13 Canada x2012 0.906
+13 Canada x2013 0.91
+13 Canada x2014 0.914
+13 Canada x2015 0.917
+13 Canada x2016 0.92
+13 Canada x2017 0.921
+13 Canada x2018 0.922
+13 Canada x2019 0.922
+188 Central African Republic x1990 0.32
+188 Central African Republic x1991 0.314
+188 Central African Republic x1992 0.299
+188 Central African Republic x1993 0.299
+188 Central African Republic x1994 0.3
+188 Central African Republic x1995 0.304
+188 Central African Republic x1996 0.301
+188 Central African Republic x1997 0.304
+188 Central African Republic x1998 0.306
+188 Central African Republic x1999 0.308
+188 Central African Republic x2000 0.307
+188 Central African Republic x2001 0.311
+188 Central African Republic x2002 0.314
+188 Central African Republic x2003 0.314
+188 Central African Republic x2004 0.319
+188 Central African Republic x2005 0.323
+188 Central African Republic x2006 0.328
+188 Central African Republic x2007 0.334
+188 Central African Republic x2008 0.339
+188 Central African Republic x2009 0.346
+188 Central African Republic x2010 0.355
+188 Central African Republic x2011 0.363
+188 Central African Republic x2012 0.37
+188 Central African Republic x2013 0.351
+188 Central African Republic x2014 0.355
+188 Central African Republic x2015 0.362
+188 Central African Republic x2016 0.372
+188 Central African Republic x2017 0.376
+188 Central African Republic x2018 0.381
+188 Central African Republic x2019 0.381
+187 Chad x2000 0.298
+187 Chad x2001 0.306
+187 Chad x2002 0.311
+187 Chad x2003 0.31
+187 Chad x2004 0.326
+187 Chad x2005 0.331
+187 Chad x2006 0.337
+187 Chad x2007 0.345
+187 Chad x2008 0.35
+187 Chad x2009 0.366
+187 Chad x2010 0.374
+187 Chad x2011 0.385
+187 Chad x2012 0.393
+187 Chad x2013 0.399
+187 Chad x2014 0.406
+187 Chad x2015 0.403
+187 Chad x2016 0.398
+187 Chad x2017 0.401
+187 Chad x2018 0.401
+187 Chad x2019 0.401
+42 Chile x1990 0.703
+42 Chile x1991 0.712
+42 Chile x1992 0.719
+42 Chile x1993 0.712
+42 Chile x1994 0.717
+42 Chile x1995 0.725
+42 Chile x1996 0.732
+42 Chile x1997 0.739
+42 Chile x1998 0.741
+42 Chile x1999 0.747
+42 Chile x2000 0.753
+42 Chile x2001 0.764
+42 Chile x2002 0.767
+42 Chile x2003 0.773
+42 Chile x2004 0.782
+42 Chile x2005 0.788
+42 Chile x2006 0.787
+42 Chile x2007 0.801
+42 Chile x2008 0.811
+42 Chile x2009 0.819
+42 Chile x2010 0.8
+42 Chile x2011 0.812
+42 Chile x2012 0.818
+42 Chile x2013 0.83
+42 Chile x2014 0.834
+42 Chile x2015 0.839
+42 Chile x2016 0.843
+42 Chile x2017 0.845
+42 Chile x2018 0.847
+42 Chile x2019 0.847
+85 China x1990 0.501
+85 China x1991 0.509
+85 China x1992 0.52
+85 China x1993 0.53
+85 China x1994 0.537
+85 China x1995 0.549
+85 China x1996 0.558
+85 China x1997 0.566
+85 China x1998 0.574
+85 China x1999 0.583
+85 China x2000 0.591
+85 China x2001 0.599
+85 China x2002 0.61
+85 China x2003 0.622
+85 China x2004 0.631
+85 China x2005 0.643
+85 China x2006 0.657
+85 China x2007 0.67
+85 China x2008 0.681
+85 China x2009 0.69
+85 China x2010 0.702
+85 China x2011 0.711
+85 China x2012 0.719
+85 China x2013 0.727
+85 China x2014 0.735
+85 China x2015 0.742
+85 China x2016 0.749
+85 China x2017 0.753
+85 China x2018 0.758
+85 China x2019 0.758
+79 Colombia x1990 0.6
+79 Colombia x1991 0.603
+79 Colombia x1992 0.613
+79 Colombia x1993 0.621
+79 Colombia x1994 0.628
+79 Colombia x1995 0.633
+79 Colombia x1996 0.643
+79 Colombia x1997 0.651
+79 Colombia x1998 0.658
+79 Colombia x1999 0.658
+79 Colombia x2000 0.662
+79 Colombia x2001 0.664
+79 Colombia x2002 0.667
+79 Colombia x2003 0.666
+79 Colombia x2004 0.68
+79 Colombia x2005 0.693
+79 Colombia x2006 0.7
+79 Colombia x2007 0.713
+79 Colombia x2008 0.72
+79 Colombia x2009 0.724
+79 Colombia x2010 0.729
+79 Colombia x2011 0.735
+79 Colombia x2012 0.736
+79 Colombia x2013 0.746
+79 Colombia x2014 0.75
+79 Colombia x2015 0.753
+79 Colombia x2016 0.759
+79 Colombia x2017 0.76
+79 Colombia x2018 0.761
+79 Colombia x2019 0.761
+156 Comoros x2000 0.457
+156 Comoros x2001 0.462
+156 Comoros x2002 0.467
+156 Comoros x2003 0.473
+156 Comoros x2004 0.474
+156 Comoros x2005 0.48
+156 Comoros x2006 0.487
+156 Comoros x2007 0.492
+156 Comoros x2008 0.499
+156 Comoros x2009 0.506
+156 Comoros x2010 0.513
+156 Comoros x2011 0.524
+156 Comoros x2012 0.529
+156 Comoros x2013 0.532
+156 Comoros x2014 0.534
+156 Comoros x2015 0.535
+156 Comoros x2016 0.537
+156 Comoros x2017 0.539
+156 Comoros x2018 0.538
+156 Comoros x2019 0.538
+138 Congo x1990 0.531
+138 Congo x1991 0.53
+138 Congo x1992 0.53
+138 Congo x1993 0.524
+138 Congo x1994 0.521
+138 Congo x1995 0.505
+138 Congo x1996 0.503
+138 Congo x1997 0.506
+138 Congo x1998 0.511
+138 Congo x1999 0.5
+138 Congo x2000 0.495
+138 Congo x2001 0.501
+138 Congo x2002 0.504
+138 Congo x2003 0.504
+138 Congo x2004 0.508
+138 Congo x2005 0.506
+138 Congo x2006 0.508
+138 Congo x2007 0.523
+138 Congo x2008 0.538
+138 Congo x2009 0.55
+138 Congo x2010 0.557
+138 Congo x2011 0.559
+138 Congo x2012 0.571
+138 Congo x2013 0.581
+138 Congo x2014 0.595
+138 Congo x2015 0.614
+138 Congo x2016 0.613
+138 Congo x2017 0.609
+138 Congo x2018 0.609
+138 Congo x2019 0.609
+179 Congo (Democratic Republic of the) x1990 0.377
+179 Congo (Democratic Republic of the) x1991 0.371
+179 Congo (Democratic Republic of the) x1992 0.369
+179 Congo (Democratic Republic of the) x1993 0.364
+179 Congo (Democratic Republic of the) x1994 0.334
+179 Congo (Democratic Republic of the) x1995 0.333
+179 Congo (Democratic Republic of the) x1996 0.337
+179 Congo (Democratic Republic of the) x1997 0.334
+179 Congo (Democratic Republic of the) x1998 0.334
+179 Congo (Democratic Republic of the) x1999 0.331
+179 Congo (Democratic Republic of the) x2000 0.333
+179 Congo (Democratic Republic of the) x2001 0.333
+179 Congo (Democratic Republic of the) x2002 0.34
+179 Congo (Democratic Republic of the) x2003 0.349
+179 Congo (Democratic Republic of the) x2004 0.357
+179 Congo (Democratic Republic of the) x2005 0.364
+179 Congo (Democratic Republic of the) x2006 0.372
+179 Congo (Democratic Republic of the) x2007 0.382
+179 Congo (Democratic Republic of the) x2008 0.393
+179 Congo (Democratic Republic of the) x2009 0.4
+179 Congo (Democratic Republic of the) x2010 0.416
+179 Congo (Democratic Republic of the) x2011 0.419
+179 Congo (Democratic Republic of the) x2012 0.423
+179 Congo (Democratic Republic of the) x2013 0.429
+179 Congo (Democratic Republic of the) x2014 0.441
+179 Congo (Democratic Republic of the) x2015 0.445
+179 Congo (Democratic Republic of the) x2016 0.453
+179 Congo (Democratic Republic of the) x2017 0.456
+179 Congo (Democratic Republic of the) x2018 0.459
+179 Congo (Democratic Republic of the) x2019 0.459
+68 Costa Rica x1990 0.655
+68 Costa Rica x1991 0.661
+68 Costa Rica x1992 0.67
+68 Costa Rica x1993 0.676
+68 Costa Rica x1994 0.682
+68 Costa Rica x1995 0.687
+68 Costa Rica x1996 0.69
+68 Costa Rica x1997 0.696
+68 Costa Rica x1998 0.702
+68 Costa Rica x1999 0.706
+68 Costa Rica x2000 0.711
+68 Costa Rica x2001 0.714
+68 Costa Rica x2002 0.717
+68 Costa Rica x2003 0.72
+68 Costa Rica x2004 0.724
+68 Costa Rica x2005 0.728
+68 Costa Rica x2006 0.734
+68 Costa Rica x2007 0.742
+68 Costa Rica x2008 0.75
+68 Costa Rica x2009 0.751
+68 Costa Rica x2010 0.754
+68 Costa Rica x2011 0.768
+68 Costa Rica x2012 0.774
+68 Costa Rica x2013 0.777
+68 Costa Rica x2014 0.785
+68 Costa Rica x2015 0.786
+68 Costa Rica x2016 0.789
+68 Costa Rica x2017 0.792
+68 Costa Rica x2018 0.794
+68 Costa Rica x2019 0.794
+46 Croatia x1990 0.67
+46 Croatia x1991 0.665
+46 Croatia x1992 0.665
+46 Croatia x1993 0.667
+46 Croatia x1994 0.681
+46 Croatia x1995 0.696
+46 Croatia x1996 0.708
+46 Croatia x1997 0.72
+46 Croatia x1998 0.731
+46 Croatia x1999 0.74
+46 Croatia x2000 0.749
+46 Croatia x2001 0.761
+46 Croatia x2002 0.767
+46 Croatia x2003 0.773
+46 Croatia x2004 0.779
+46 Croatia x2005 0.785
+46 Croatia x2006 0.794
+46 Croatia x2007 0.801
+46 Croatia x2008 0.805
+46 Croatia x2009 0.804
+46 Croatia x2010 0.811
+46 Croatia x2011 0.817
+46 Croatia x2012 0.82
+46 Croatia x2013 0.825
+46 Croatia x2014 0.827
+46 Croatia x2015 0.83
+46 Croatia x2016 0.832
+46 Croatia x2017 0.835
+46 Croatia x2018 0.837
+46 Croatia x2019 0.837
+72 Cuba x1990 0.676
+72 Cuba x1991 0.67
+72 Cuba x1992 0.663
+72 Cuba x1993 0.656
+72 Cuba x1994 0.652
+72 Cuba x1995 0.654
+72 Cuba x1996 0.665
+72 Cuba x1997 0.669
+72 Cuba x1998 0.672
+72 Cuba x1999 0.679
+72 Cuba x2000 0.686
+72 Cuba x2001 0.692
+72 Cuba x2002 0.693
+72 Cuba x2003 0.704
+72 Cuba x2004 0.718
+72 Cuba x2005 0.73
+72 Cuba x2006 0.752
+72 Cuba x2007 0.768
+72 Cuba x2008 0.778
+72 Cuba x2009 0.78
+72 Cuba x2010 0.776
+72 Cuba x2011 0.775
+72 Cuba x2012 0.764
+72 Cuba x2013 0.762
+72 Cuba x2014 0.764
+72 Cuba x2015 0.768
+72 Cuba x2016 0.771
+72 Cuba x2017 0.777
+72 Cuba x2018 0.778
+72 Cuba x2019 0.778
+31 Cyprus x1990 0.731
+31 Cyprus x1991 0.733
+31 Cyprus x1992 0.738
+31 Cyprus x1993 0.775
+31 Cyprus x1994 0.779
+31 Cyprus x1995 0.783
+31 Cyprus x1996 0.786
+31 Cyprus x1997 0.789
+31 Cyprus x1998 0.797
+31 Cyprus x1999 0.797
+31 Cyprus x2000 0.799
+31 Cyprus x2001 0.805
+31 Cyprus x2002 0.814
+31 Cyprus x2003 0.822
+31 Cyprus x2004 0.826
+31 Cyprus x2005 0.83
+31 Cyprus x2006 0.836
+31 Cyprus x2007 0.844
+31 Cyprus x2008 0.852
+31 Cyprus x2009 0.854
+31 Cyprus x2010 0.85
+31 Cyprus x2011 0.853
+31 Cyprus x2012 0.852
+31 Cyprus x2013 0.854
+31 Cyprus x2014 0.856
+31 Cyprus x2015 0.864
+31 Cyprus x2016 0.869
+31 Cyprus x2017 0.871
+31 Cyprus x2018 0.873
+31 Cyprus x2019 0.873
+26 Czechia x1990 0.73
+26 Czechia x1991 0.726
+26 Czechia x1992 0.728
+26 Czechia x1993 0.735
+26 Czechia x1994 0.744
+26 Czechia x1995 0.753
+26 Czechia x1996 0.767
+26 Czechia x1997 0.774
+26 Czechia x1998 0.775
+26 Czechia x1999 0.784
+26 Czechia x2000 0.796
+26 Czechia x2001 0.806
+26 Czechia x2002 0.813
+26 Czechia x2003 0.822
+26 Czechia x2004 0.825
+26 Czechia x2005 0.835
+26 Czechia x2006 0.843
+26 Czechia x2007 0.85
+26 Czechia x2008 0.854
+26 Czechia x2009 0.857
+26 Czechia x2010 0.862
+26 Czechia x2011 0.865
+26 Czechia x2012 0.865
+26 Czechia x2013 0.874
+26 Czechia x2014 0.879
+26 Czechia x2015 0.882
+26 Czechia x2016 0.885
+26 Czechia x2017 0.888
+26 Czechia x2018 0.891
+26 Czechia x2019 0.891
+11 Denmark x1990 0.799
+11 Denmark x1991 0.804
+11 Denmark x1992 0.809
+11 Denmark x1993 0.815
+11 Denmark x1994 0.824
+11 Denmark x1995 0.831
+11 Denmark x1996 0.837
+11 Denmark x1997 0.843
+11 Denmark x1998 0.849
+11 Denmark x1999 0.861
+11 Denmark x2000 0.863
+11 Denmark x2001 0.876
+11 Denmark x2002 0.883
+11 Denmark x2003 0.894
+11 Denmark x2004 0.898
+11 Denmark x2005 0.903
+11 Denmark x2006 0.905
+11 Denmark x2007 0.904
+11 Denmark x2008 0.909
+11 Denmark x2009 0.906
+11 Denmark x2010 0.91
+11 Denmark x2011 0.922
+11 Denmark x2012 0.924
+11 Denmark x2013 0.926
+11 Denmark x2014 0.928
+11 Denmark x2015 0.926
+11 Denmark x2016 0.928
+11 Denmark x2017 0.929
+11 Denmark x2018 0.93
+11 Denmark x2019 0.93
+171 Djibouti x1995 0.353
+171 Djibouti x1996 0.351
+171 Djibouti x1997 0.355
+171 Djibouti x1998 0.356
+171 Djibouti x1999 0.36
+171 Djibouti x2000 0.361
+171 Djibouti x2001 0.37
+171 Djibouti x2002 0.376
+171 Djibouti x2003 0.386
+171 Djibouti x2004 0.394
+171 Djibouti x2005 0.402
+171 Djibouti x2006 0.414
+171 Djibouti x2007 0.424
+171 Djibouti x2008 0.432
+171 Djibouti x2009 0.437
+171 Djibouti x2010 0.446
+171 Djibouti x2011 0.451
+171 Djibouti x2012 0.459
+171 Djibouti x2013 0.467
+171 Djibouti x2014 0.475
+171 Djibouti x2015 0.482
+171 Djibouti x2016 0.489
+171 Djibouti x2017 0.492
+171 Djibouti x2018 0.495
+171 Djibouti x2019 0.495
+98 Dominica x2000 0.694
+98 Dominica x2001 0.698
+98 Dominica x2002 0.697
+98 Dominica x2003 0.702
+98 Dominica x2004 0.704
+98 Dominica x2005 0.706
+98 Dominica x2006 0.711
+98 Dominica x2007 0.715
+98 Dominica x2008 0.721
+98 Dominica x2009 0.721
+98 Dominica x2010 0.733
+98 Dominica x2011 0.733
+98 Dominica x2012 0.731
+98 Dominica x2013 0.73
+98 Dominica x2014 0.732
+98 Dominica x2015 0.729
+98 Dominica x2016 0.729
+98 Dominica x2017 0.723
+98 Dominica x2018 0.724
+98 Dominica x2019 0.724
+89 Dominican Republic x1990 0.593
+89 Dominican Republic x1991 0.597
+89 Dominican Republic x1992 0.606
+89 Dominican Republic x1993 0.613
+89 Dominican Republic x1994 0.618
+89 Dominican Republic x1995 0.624
+89 Dominican Republic x1996 0.63
+89 Dominican Republic x1997 0.637
+89 Dominican Republic x1998 0.643
+89 Dominican Republic x1999 0.648
+89 Dominican Republic x2000 0.653
+89 Dominican Republic x2001 0.657
+89 Dominican Republic x2002 0.662
+89 Dominican Republic x2003 0.663
+89 Dominican Republic x2004 0.666
+89 Dominican Republic x2005 0.675
+89 Dominican Republic x2006 0.682
+89 Dominican Republic x2007 0.689
+89 Dominican Republic x2008 0.692
+89 Dominican Republic x2009 0.694
+89 Dominican Republic x2010 0.701
+89 Dominican Republic x2011 0.704
+89 Dominican Republic x2012 0.708
+89 Dominican Republic x2013 0.712
+89 Dominican Republic x2014 0.724
+89 Dominican Republic x2015 0.733
+89 Dominican Republic x2016 0.738
+89 Dominican Republic x2017 0.741
+89 Dominican Republic x2018 0.745
+89 Dominican Republic x2019 0.745
+85 Ecuador x1990 0.642
+85 Ecuador x1991 0.645
+85 Ecuador x1992 0.649
+85 Ecuador x1993 0.653
+85 Ecuador x1994 0.657
+85 Ecuador x1995 0.661
+85 Ecuador x1996 0.663
+85 Ecuador x1997 0.667
+85 Ecuador x1998 0.67
+85 Ecuador x1999 0.667
+85 Ecuador x2000 0.669
+85 Ecuador x2001 0.674
+85 Ecuador x2002 0.679
+85 Ecuador x2003 0.682
+85 Ecuador x2004 0.687
+85 Ecuador x2005 0.692
+85 Ecuador x2006 0.695
+85 Ecuador x2007 0.706
+85 Ecuador x2008 0.711
+85 Ecuador x2009 0.712
+85 Ecuador x2010 0.716
+85 Ecuador x2011 0.742
+85 Ecuador x2012 0.74
+85 Ecuador x2013 0.751
+85 Ecuador x2014 0.75
+85 Ecuador x2015 0.758
+85 Ecuador x2016 0.756
+85 Ecuador x2017 0.757
+85 Ecuador x2018 0.758
+85 Ecuador x2019 0.758
+116 Egypt x1990 0.546
+116 Egypt x1991 0.551
+116 Egypt x1992 0.557
+116 Egypt x1993 0.563
+116 Egypt x1994 0.569
+116 Egypt x1995 0.576
+116 Egypt x1996 0.584
+116 Egypt x1997 0.591
+116 Egypt x1998 0.592
+116 Egypt x1999 0.605
+116 Egypt x2000 0.611
+116 Egypt x2001 0.616
+116 Egypt x2002 0.621
+116 Egypt x2003 0.623
+116 Egypt x2004 0.629
+116 Egypt x2005 0.635
+116 Egypt x2006 0.643
+116 Egypt x2007 0.651
+116 Egypt x2008 0.659
+116 Egypt x2009 0.66
+116 Egypt x2010 0.666
+116 Egypt x2011 0.669
+116 Egypt x2012 0.676
+116 Egypt x2013 0.681
+116 Egypt x2014 0.683
+116 Egypt x2015 0.69
+116 Egypt x2016 0.695
+116 Egypt x2017 0.696
+116 Egypt x2018 0.7
+116 Egypt x2019 0.7
+124 El Salvador x1990 0.529
+124 El Salvador x1991 0.533
+124 El Salvador x1992 0.544
+124 El Salvador x1993 0.555
+124 El Salvador x1994 0.564
+124 El Salvador x1995 0.573
+124 El Salvador x1996 0.581
+124 El Salvador x1997 0.59
+124 El Salvador x1998 0.598
+124 El Salvador x1999 0.6
+124 El Salvador x2000 0.608
+124 El Salvador x2001 0.612
+124 El Salvador x2002 0.619
+124 El Salvador x2003 0.625
+124 El Salvador x2004 0.631
+124 El Salvador x2005 0.637
+124 El Salvador x2006 0.645
+124 El Salvador x2007 0.644
+124 El Salvador x2008 0.647
+124 El Salvador x2009 0.647
+124 El Salvador x2010 0.659
+124 El Salvador x2011 0.656
+124 El Salvador x2012 0.66
+124 El Salvador x2013 0.662
+124 El Salvador x2014 0.66
+124 El Salvador x2015 0.66
+124 El Salvador x2016 0.662
+124 El Salvador x2017 0.665
+124 El Salvador x2018 0.667
+124 El Salvador x2019 0.667
+144 Equatorial Guinea x2000 0.52
+144 Equatorial Guinea x2001 0.523
+144 Equatorial Guinea x2002 0.536
+144 Equatorial Guinea x2003 0.535
+144 Equatorial Guinea x2004 0.545
+144 Equatorial Guinea x2005 0.569
+144 Equatorial Guinea x2006 0.579
+144 Equatorial Guinea x2007 0.585
+144 Equatorial Guinea x2008 0.586
+144 Equatorial Guinea x2009 0.588
+144 Equatorial Guinea x2010 0.58
+144 Equatorial Guinea x2011 0.583
+144 Equatorial Guinea x2012 0.587
+144 Equatorial Guinea x2013 0.588
+144 Equatorial Guinea x2014 0.59
+144 Equatorial Guinea x2015 0.593
+144 Equatorial Guinea x2016 0.592
+144 Equatorial Guinea x2017 0.59
+144 Equatorial Guinea x2018 0.588
+144 Equatorial Guinea x2019 0.588
+182 Eritrea x2005 0.424
+182 Eritrea x2006 0.425
+182 Eritrea x2007 0.427
+182 Eritrea x2008 0.423
+182 Eritrea x2009 0.432
+182 Eritrea x2010 0.433
+182 Eritrea x2011 0.433
+182 Eritrea x2012 0.422
+182 Eritrea x2013 0.425
+182 Eritrea x2014 0.436
+182 Eritrea x2015 0.433
+182 Eritrea x2016 0.434
+182 Eritrea x2017 0.431
+182 Eritrea x2018 0.434
+182 Eritrea x2019 0.434
+30 Estonia x1990 0.73
+30 Estonia x1991 0.725
+30 Estonia x1992 0.716
+30 Estonia x1993 0.709
+30 Estonia x1994 0.713
+30 Estonia x1995 0.724
+30 Estonia x1996 0.734
+30 Estonia x1997 0.747
+30 Estonia x1998 0.759
+30 Estonia x1999 0.766
+30 Estonia x2000 0.78
+30 Estonia x2001 0.79
+30 Estonia x2002 0.799
+30 Estonia x2003 0.806
+30 Estonia x2004 0.814
+30 Estonia x2005 0.825
+30 Estonia x2006 0.832
+30 Estonia x2007 0.839
+30 Estonia x2008 0.841
+30 Estonia x2009 0.838
+30 Estonia x2010 0.844
+30 Estonia x2011 0.853
+30 Estonia x2012 0.859
+30 Estonia x2013 0.863
+30 Estonia x2014 0.865
+30 Estonia x2015 0.871
+30 Estonia x2016 0.875
+30 Estonia x2017 0.879
+30 Estonia x2018 0.882
+30 Estonia x2019 0.882
+138 Eswatini (Kingdom of) x1990 0.545
+138 Eswatini (Kingdom of) x1991 0.546
+138 Eswatini (Kingdom of) x1992 0.543
+138 Eswatini (Kingdom of) x1993 0.538
+138 Eswatini (Kingdom of) x1994 0.531
+138 Eswatini (Kingdom of) x1995 0.526
+138 Eswatini (Kingdom of) x1996 0.519
+138 Eswatini (Kingdom of) x1997 0.507
+138 Eswatini (Kingdom of) x1998 0.493
+138 Eswatini (Kingdom of) x1999 0.483
+138 Eswatini (Kingdom of) x2000 0.468
+138 Eswatini (Kingdom of) x2001 0.457
+138 Eswatini (Kingdom of) x2002 0.445
+138 Eswatini (Kingdom of) x2003 0.44
+138 Eswatini (Kingdom of) x2004 0.448
+138 Eswatini (Kingdom of) x2005 0.459
+138 Eswatini (Kingdom of) x2006 0.472
+138 Eswatini (Kingdom of) x2007 0.482
+138 Eswatini (Kingdom of) x2008 0.491
+138 Eswatini (Kingdom of) x2009 0.501
+138 Eswatini (Kingdom of) x2010 0.513
+138 Eswatini (Kingdom of) x2011 0.528
+138 Eswatini (Kingdom of) x2012 0.542
+138 Eswatini (Kingdom of) x2013 0.558
+138 Eswatini (Kingdom of) x2014 0.573
+138 Eswatini (Kingdom of) x2015 0.585
+138 Eswatini (Kingdom of) x2016 0.596
+138 Eswatini (Kingdom of) x2017 0.603
+138 Eswatini (Kingdom of) x2018 0.608
+138 Eswatini (Kingdom of) x2019 0.608
+173 Ethiopia x2000 0.283
+173 Ethiopia x2001 0.298
+173 Ethiopia x2002 0.306
+173 Ethiopia x2003 0.31
+173 Ethiopia x2004 0.325
+173 Ethiopia x2005 0.346
+173 Ethiopia x2006 0.362
+173 Ethiopia x2007 0.377
+173 Ethiopia x2008 0.394
+173 Ethiopia x2009 0.402
+173 Ethiopia x2010 0.412
+173 Ethiopia x2011 0.423
+173 Ethiopia x2012 0.429
+173 Ethiopia x2013 0.439
+173 Ethiopia x2014 0.446
+173 Ethiopia x2015 0.453
+173 Ethiopia x2016 0.46
+173 Ethiopia x2017 0.467
+173 Ethiopia x2018 0.47
+173 Ethiopia x2019 0.47
+98 Fiji x1990 0.64
+98 Fiji x1991 0.645
+98 Fiji x1992 0.651
+98 Fiji x1993 0.655
+98 Fiji x1994 0.66
+98 Fiji x1995 0.666
+98 Fiji x1996 0.668
+98 Fiji x1997 0.667
+98 Fiji x1998 0.667
+98 Fiji x1999 0.672
+98 Fiji x2000 0.675
+98 Fiji x2001 0.675
+98 Fiji x2002 0.678
+98 Fiji x2003 0.679
+98 Fiji x2004 0.685
+98 Fiji x2005 0.687
+98 Fiji x2006 0.687
+98 Fiji x2007 0.691
+98 Fiji x2008 0.691
+98 Fiji x2009 0.694
+98 Fiji x2010 0.694
+98 Fiji x2011 0.698
+98 Fiji x2012 0.702
+98 Fiji x2013 0.707
+98 Fiji x2014 0.712
+98 Fiji x2015 0.718
+98 Fiji x2016 0.718
+98 Fiji x2017 0.721
+98 Fiji x2018 0.724
+98 Fiji x2019 0.724
+12 Finland x1990 0.784
+12 Finland x1991 0.787
+12 Finland x1992 0.795
+12 Finland x1993 0.799
+12 Finland x1994 0.809
+12 Finland x1995 0.816
+12 Finland x1996 0.823
+12 Finland x1997 0.832
+12 Finland x1998 0.84
+12 Finland x1999 0.848
+12 Finland x2000 0.858
+12 Finland x2001 0.864
+12 Finland x2002 0.867
+12 Finland x2003 0.87
+12 Finland x2004 0.891
+12 Finland x2005 0.895
+12 Finland x2006 0.899
+12 Finland x2007 0.901
+12 Finland x2008 0.904
+12 Finland x2009 0.899
+12 Finland x2010 0.903
+12 Finland x2011 0.907
+12 Finland x2012 0.908
+12 Finland x2013 0.916
+12 Finland x2014 0.918
+12 Finland x2015 0.919
+12 Finland x2016 0.922
+12 Finland x2017 0.924
+12 Finland x2018 0.925
+12 Finland x2019 0.925
+26 France x1990 0.78
+26 France x1991 0.79
+26 France x1992 0.798
+26 France x1993 0.804
+26 France x1994 0.818
+26 France x1995 0.825
+26 France x1996 0.83
+26 France x1997 0.834
+26 France x1998 0.839
+26 France x1999 0.844
+26 France x2000 0.842
+26 France x2001 0.845
+26 France x2002 0.845
+26 France x2003 0.848
+26 France x2004 0.852
+26 France x2005 0.86
+26 France x2006 0.865
+26 France x2007 0.867
+26 France x2008 0.869
+26 France x2009 0.869
+26 France x2010 0.872
+26 France x2011 0.876
+26 France x2012 0.878
+26 France x2013 0.882
+26 France x2014 0.887
+26 France x2015 0.888
+26 France x2016 0.887
+26 France x2017 0.89
+26 France x2018 0.891
+26 France x2019 0.891
+115 Gabon x1990 0.619
+115 Gabon x1991 0.623
+115 Gabon x1992 0.623
+115 Gabon x1993 0.625
+115 Gabon x1994 0.628
+115 Gabon x1995 0.63
+115 Gabon x1996 0.632
+115 Gabon x1997 0.633
+115 Gabon x1998 0.636
+115 Gabon x1999 0.631
+115 Gabon x2000 0.627
+115 Gabon x2001 0.63
+115 Gabon x2002 0.632
+115 Gabon x2003 0.633
+115 Gabon x2004 0.632
+115 Gabon x2005 0.638
+115 Gabon x2006 0.638
+115 Gabon x2007 0.643
+115 Gabon x2008 0.645
+115 Gabon x2009 0.653
+115 Gabon x2010 0.658
+115 Gabon x2011 0.663
+115 Gabon x2012 0.672
+115 Gabon x2013 0.679
+115 Gabon x2014 0.688
+115 Gabon x2015 0.692
+115 Gabon x2016 0.696
+115 Gabon x2017 0.7
+115 Gabon x2018 0.702
+115 Gabon x2019 0.702
+174 Gambia x1990 0.328
+174 Gambia x1991 0.335
+174 Gambia x1992 0.339
+174 Gambia x1993 0.343
+174 Gambia x1994 0.346
+174 Gambia x1995 0.35
+174 Gambia x1996 0.356
+174 Gambia x1997 0.362
+174 Gambia x1998 0.368
+174 Gambia x1999 0.376
+174 Gambia x2000 0.382
+174 Gambia x2001 0.389
+174 Gambia x2002 0.392
+174 Gambia x2003 0.4
+174 Gambia x2004 0.409
+174 Gambia x2005 0.413
+174 Gambia x2006 0.418
+174 Gambia x2007 0.424
+174 Gambia x2008 0.431
+174 Gambia x2009 0.434
+174 Gambia x2010 0.437
+174 Gambia x2011 0.435
+174 Gambia x2012 0.441
+174 Gambia x2013 0.448
+174 Gambia x2014 0.449
+174 Gambia x2015 0.454
+174 Gambia x2016 0.456
+174 Gambia x2017 0.459
+174 Gambia x2018 0.466
+174 Gambia x2019 0.466
+70 Georgia x2000 0.669
+70 Georgia x2001 0.673
+70 Georgia x2002 0.678
+70 Georgia x2003 0.688
+70 Georgia x2004 0.695
+70 Georgia x2005 0.705
+70 Georgia x2006 0.712
+70 Georgia x2007 0.724
+70 Georgia x2008 0.723
+70 Georgia x2009 0.727
+70 Georgia x2010 0.732
+70 Georgia x2011 0.738
+70 Georgia x2012 0.749
+70 Georgia x2013 0.756
+70 Georgia x2014 0.764
+70 Georgia x2015 0.771
+70 Georgia x2016 0.776
+70 Georgia x2017 0.783
+70 Georgia x2018 0.786
+70 Georgia x2019 0.786
+4 Germany x1990 0.801
+4 Germany x1991 0.809
+4 Germany x1992 0.814
+4 Germany x1993 0.824
+4 Germany x1994 0.829
+4 Germany x1995 0.834
+4 Germany x1996 0.839
+4 Germany x1997 0.844
+4 Germany x1998 0.853
+4 Germany x1999 0.861
+4 Germany x2000 0.869
+4 Germany x2001 0.876
+4 Germany x2002 0.883
+4 Germany x2003 0.889
+4 Germany x2004 0.899
+4 Germany x2005 0.9
+4 Germany x2006 0.91
+4 Germany x2007 0.914
+4 Germany x2008 0.916
+4 Germany x2009 0.916
+4 Germany x2010 0.92
+4 Germany x2011 0.925
+4 Germany x2012 0.927
+4 Germany x2013 0.927
+4 Germany x2014 0.93
+4 Germany x2015 0.933
+4 Germany x2016 0.936
+4 Germany x2017 0.938
+4 Germany x2018 0.939
+4 Germany x2019 0.939
+142 Ghana x1990 0.454
+142 Ghana x1991 0.459
+142 Ghana x1992 0.463
+142 Ghana x1993 0.467
+142 Ghana x1994 0.469
+142 Ghana x1995 0.472
+142 Ghana x1996 0.473
+142 Ghana x1997 0.475
+142 Ghana x1998 0.476
+142 Ghana x1999 0.478
+142 Ghana x2000 0.483
+142 Ghana x2001 0.482
+142 Ghana x2002 0.487
+142 Ghana x2003 0.489
+142 Ghana x2004 0.497
+142 Ghana x2005 0.508
+142 Ghana x2006 0.518
+142 Ghana x2007 0.529
+142 Ghana x2008 0.542
+142 Ghana x2009 0.547
+142 Ghana x2010 0.554
+142 Ghana x2011 0.563
+142 Ghana x2012 0.57
+142 Ghana x2013 0.578
+142 Ghana x2014 0.577
+142 Ghana x2015 0.585
+142 Ghana x2016 0.587
+142 Ghana x2017 0.591
+142 Ghana x2018 0.596
+142 Ghana x2019 0.596
+32 Greece x1990 0.753
+32 Greece x1991 0.763
+32 Greece x1992 0.764
+32 Greece x1993 0.762
+32 Greece x1994 0.766
+32 Greece x1995 0.768
+32 Greece x1996 0.772
+32 Greece x1997 0.777
+32 Greece x1998 0.787
+32 Greece x1999 0.789
+32 Greece x2000 0.796
+32 Greece x2001 0.806
+32 Greece x2002 0.818
+32 Greece x2003 0.825
+32 Greece x2004 0.835
+32 Greece x2005 0.845
+32 Greece x2006 0.851
+32 Greece x2007 0.849
+32 Greece x2008 0.857
+32 Greece x2009 0.859
+32 Greece x2010 0.857
+32 Greece x2011 0.853
+32 Greece x2012 0.856
+32 Greece x2013 0.858
+32 Greece x2014 0.866
+32 Greece x2015 0.868
+32 Greece x2016 0.866
+32 Greece x2017 0.871
+32 Greece x2018 0.872
+32 Greece x2019 0.872
+78 Grenada x2002 0.711
+78 Grenada x2003 0.719
+78 Grenada x2004 0.721
+78 Grenada x2005 0.734
+78 Grenada x2006 0.735
+78 Grenada x2007 0.74
+78 Grenada x2008 0.743
+78 Grenada x2009 0.74
+78 Grenada x2010 0.743
+78 Grenada x2011 0.746
+78 Grenada x2012 0.747
+78 Grenada x2013 0.75
+78 Grenada x2014 0.752
+78 Grenada x2015 0.756
+78 Grenada x2016 0.76
+78 Grenada x2017 0.76
+78 Grenada x2018 0.763
+78 Grenada x2019 0.763
+126 Guatemala x1990 0.477
+126 Guatemala x1991 0.484
+126 Guatemala x1992 0.489
+126 Guatemala x1993 0.495
+126 Guatemala x1994 0.5
+126 Guatemala x1995 0.507
+126 Guatemala x1996 0.515
+126 Guatemala x1997 0.523
+126 Guatemala x1998 0.531
+126 Guatemala x1999 0.539
+126 Guatemala x2000 0.546
+126 Guatemala x2001 0.553
+126 Guatemala x2002 0.56
+126 Guatemala x2003 0.564
+126 Guatemala x2004 0.567
+126 Guatemala x2005 0.571
+126 Guatemala x2006 0.579
+126 Guatemala x2007 0.588
+126 Guatemala x2008 0.594
+126 Guatemala x2009 0.597
+126 Guatemala x2010 0.602
+126 Guatemala x2011 0.607
+126 Guatemala x2012 0.613
+126 Guatemala x2013 0.616
+126 Guatemala x2014 0.643
+126 Guatemala x2015 0.647
+126 Guatemala x2016 0.648
+126 Guatemala x2017 0.649
+126 Guatemala x2018 0.651
+126 Guatemala x2019 0.651
+174 Guinea x1990 0.278
+174 Guinea x1991 0.283
+174 Guinea x1992 0.288
+174 Guinea x1993 0.293
+174 Guinea x1994 0.297
+174 Guinea x1995 0.302
+174 Guinea x1996 0.306
+174 Guinea x1997 0.314
+174 Guinea x1998 0.321
+174 Guinea x1999 0.328
+174 Guinea x2000 0.335
+174 Guinea x2001 0.341
+174 Guinea x2002 0.351
+174 Guinea x2003 0.338
+174 Guinea x2004 0.363
+174 Guinea x2005 0.373
+174 Guinea x2006 0.384
+174 Guinea x2007 0.393
+174 Guinea x2008 0.4
+174 Guinea x2009 0.4
+174 Guinea x2010 0.408
+174 Guinea x2011 0.421
+174 Guinea x2012 0.431
+174 Guinea x2013 0.439
+174 Guinea x2014 0.446
+174 Guinea x2015 0.449
+174 Guinea x2016 0.456
+174 Guinea x2017 0.463
+174 Guinea x2018 0.466
+174 Guinea x2019 0.466
+178 Guinea-Bissau x2005 0.393
+178 Guinea-Bissau x2006 0.401
+178 Guinea-Bissau x2007 0.407
+178 Guinea-Bissau x2008 0.413
+178 Guinea-Bissau x2009 0.419
+178 Guinea-Bissau x2010 0.426
+178 Guinea-Bissau x2011 0.435
+178 Guinea-Bissau x2012 0.437
+178 Guinea-Bissau x2013 0.441
+178 Guinea-Bissau x2014 0.45
+178 Guinea-Bissau x2015 0.453
+178 Guinea-Bissau x2016 0.457
+178 Guinea-Bissau x2017 0.46
+178 Guinea-Bissau x2018 0.461
+178 Guinea-Bissau x2019 0.461
+123 Guyana x1990 0.537
+123 Guyana x1991 0.533
+123 Guyana x1992 0.548
+123 Guyana x1993 0.561
+123 Guyana x1994 0.571
+123 Guyana x1995 0.578
+123 Guyana x1996 0.589
+123 Guyana x1997 0.594
+123 Guyana x1998 0.597
+123 Guyana x1999 0.601
+123 Guyana x2000 0.606
+123 Guyana x2001 0.609
+123 Guyana x2002 0.612
+123 Guyana x2003 0.609
+123 Guyana x2004 0.614
+123 Guyana x2005 0.619
+123 Guyana x2006 0.624
+123 Guyana x2007 0.627
+123 Guyana x2008 0.63
+123 Guyana x2009 0.633
+123 Guyana x2010 0.639
+123 Guyana x2011 0.648
+123 Guyana x2012 0.652
+123 Guyana x2013 0.656
+123 Guyana x2014 0.66
+123 Guyana x2015 0.663
+123 Guyana x2016 0.666
+123 Guyana x2017 0.668
+123 Guyana x2018 0.67
+123 Guyana x2019 0.67
+169 Haiti x1990 0.412
+169 Haiti x1991 0.416
+169 Haiti x1992 0.416
+169 Haiti x1993 0.416
+169 Haiti x1994 0.413
+169 Haiti x1995 0.421
+169 Haiti x1996 0.426
+169 Haiti x1997 0.43
+169 Haiti x1998 0.433
+169 Haiti x1999 0.437
+169 Haiti x2000 0.44
+169 Haiti x2001 0.442
+169 Haiti x2002 0.444
+169 Haiti x2003 0.447
+169 Haiti x2004 0.448
+169 Haiti x2005 0.451
+169 Haiti x2006 0.456
+169 Haiti x2007 0.46
+169 Haiti x2008 0.463
+169 Haiti x2009 0.468
+169 Haiti x2010 0.467
+169 Haiti x2011 0.474
+169 Haiti x2012 0.478
+169 Haiti x2013 0.483
+169 Haiti x2014 0.488
+169 Haiti x2015 0.492
+169 Haiti x2016 0.497
+169 Haiti x2017 0.501
+169 Haiti x2018 0.503
+169 Haiti x2019 0.503
+132 Honduras x1990 0.508
+132 Honduras x1991 0.507
+132 Honduras x1992 0.513
+132 Honduras x1993 0.519
+132 Honduras x1994 0.523
+132 Honduras x1995 0.529
+132 Honduras x1996 0.534
+132 Honduras x1997 0.54
+132 Honduras x1998 0.545
+132 Honduras x1999 0.548
+132 Honduras x2000 0.555
+132 Honduras x2001 0.559
+132 Honduras x2002 0.564
+132 Honduras x2003 0.569
+132 Honduras x2004 0.575
+132 Honduras x2005 0.581
+132 Honduras x2006 0.587
+132 Honduras x2007 0.595
+132 Honduras x2008 0.591
+132 Honduras x2009 0.593
+132 Honduras x2010 0.598
+132 Honduras x2011 0.601
+132 Honduras x2012 0.6
+132 Honduras x2013 0.603
+132 Honduras x2014 0.606
+132 Honduras x2015 0.613
+132 Honduras x2016 0.618
+132 Honduras x2017 0.621
+132 Honduras x2018 0.623
+132 Honduras x2019 0.623
+4 Hong Kong, China (SAR) x1990 0.781
+4 Hong Kong, China (SAR) x1991 0.786
+4 Hong Kong, China (SAR) x1992 0.791
+4 Hong Kong, China (SAR) x1993 0.799
+4 Hong Kong, China (SAR) x1994 0.804
+4 Hong Kong, China (SAR) x1995 0.808
+4 Hong Kong, China (SAR) x1996 0.811
+4 Hong Kong, China (SAR) x1997 0.816
+4 Hong Kong, China (SAR) x1998 0.817
+4 Hong Kong, China (SAR) x1999 0.821
+4 Hong Kong, China (SAR) x2000 0.827
+4 Hong Kong, China (SAR) x2001 0.835
+4 Hong Kong, China (SAR) x2002 0.842
+4 Hong Kong, China (SAR) x2003 0.851
+4 Hong Kong, China (SAR) x2004 0.862
+4 Hong Kong, China (SAR) x2005 0.871
+4 Hong Kong, China (SAR) x2006 0.883
+4 Hong Kong, China (SAR) x2007 0.887
+4 Hong Kong, China (SAR) x2008 0.896
+4 Hong Kong, China (SAR) x2009 0.898
+4 Hong Kong, China (SAR) x2010 0.901
+4 Hong Kong, China (SAR) x2011 0.904
+4 Hong Kong, China (SAR) x2012 0.911
+4 Hong Kong, China (SAR) x2013 0.916
+4 Hong Kong, China (SAR) x2014 0.924
+4 Hong Kong, China (SAR) x2015 0.927
+4 Hong Kong, China (SAR) x2016 0.931
+4 Hong Kong, China (SAR) x2017 0.937
+4 Hong Kong, China (SAR) x2018 0.939
+4 Hong Kong, China (SAR) x2019 0.939
+43 Hungary x1990 0.704
+43 Hungary x1991 0.702
+43 Hungary x1992 0.706
+43 Hungary x1993 0.72
+43 Hungary x1994 0.733
+43 Hungary x1995 0.741
+43 Hungary x1996 0.746
+43 Hungary x1997 0.747
+43 Hungary x1998 0.754
+43 Hungary x1999 0.761
+43 Hungary x2000 0.769
+43 Hungary x2001 0.777
+43 Hungary x2002 0.784
+43 Hungary x2003 0.793
+43 Hungary x2004 0.795
+43 Hungary x2005 0.802
+43 Hungary x2006 0.811
+43 Hungary x2007 0.814
+43 Hungary x2008 0.818
+43 Hungary x2009 0.823
+43 Hungary x2010 0.826
+43 Hungary x2011 0.823
+43 Hungary x2012 0.826
+43 Hungary x2013 0.835
+43 Hungary x2014 0.833
+43 Hungary x2015 0.835
+43 Hungary x2016 0.838
+43 Hungary x2017 0.841
+43 Hungary x2018 0.845
+43 Hungary x2019 0.845
+6 Iceland x1990 0.804
+6 Iceland x1991 0.817
+6 Iceland x1992 0.82
+6 Iceland x1993 0.821
+6 Iceland x1994 0.826
+6 Iceland x1995 0.829
+6 Iceland x1996 0.834
+6 Iceland x1997 0.841
+6 Iceland x1998 0.851
+6 Iceland x1999 0.855
+6 Iceland x2000 0.861
+6 Iceland x2001 0.867
+6 Iceland x2002 0.876
+6 Iceland x2003 0.882
+6 Iceland x2004 0.886
+6 Iceland x2005 0.891
+6 Iceland x2006 0.893
+6 Iceland x2007 0.899
+6 Iceland x2008 0.892
+6 Iceland x2009 0.891
+6 Iceland x2010 0.892
+6 Iceland x2011 0.901
+6 Iceland x2012 0.908
+6 Iceland x2013 0.92
+6 Iceland x2014 0.924
+6 Iceland x2015 0.927
+6 Iceland x2016 0.932
+6 Iceland x2017 0.935
+6 Iceland x2018 0.938
+6 Iceland x2019 0.938
+129 India x1990 0.431
+129 India x1991 0.436
+129 India x1992 0.442
+129 India x1993 0.449
+129 India x1994 0.456
+129 India x1995 0.463
+129 India x1996 0.471
+129 India x1997 0.477
+129 India x1998 0.484
+129 India x1999 0.492
+129 India x2000 0.497
+129 India x2001 0.502
+129 India x2002 0.508
+129 India x2003 0.521
+129 India x2004 0.53
+129 India x2005 0.539
+129 India x2006 0.548
+129 India x2007 0.558
+129 India x2008 0.565
+129 India x2009 0.571
+129 India x2010 0.581
+129 India x2011 0.59
+129 India x2012 0.6
+129 India x2013 0.607
+129 India x2014 0.618
+129 India x2015 0.627
+129 India x2016 0.637
+129 India x2017 0.643
+129 India x2018 0.647
+129 India x2019 0.647
+111 Indonesia x1990 0.525
+111 Indonesia x1991 0.53
+111 Indonesia x1992 0.535
+111 Indonesia x1993 0.541
+111 Indonesia x1994 0.551
+111 Indonesia x1995 0.56
+111 Indonesia x1996 0.574
+111 Indonesia x1997 0.587
+111 Indonesia x1998 0.587
+111 Indonesia x1999 0.595
+111 Indonesia x2000 0.604
+111 Indonesia x2001 0.61
+111 Indonesia x2002 0.616
+111 Indonesia x2003 0.623
+111 Indonesia x2004 0.629
+111 Indonesia x2005 0.633
+111 Indonesia x2006 0.643
+111 Indonesia x2007 0.644
+111 Indonesia x2008 0.648
+111 Indonesia x2009 0.659
+111 Indonesia x2010 0.666
+111 Indonesia x2011 0.674
+111 Indonesia x2012 0.682
+111 Indonesia x2013 0.688
+111 Indonesia x2014 0.691
+111 Indonesia x2015 0.696
+111 Indonesia x2016 0.7
+111 Indonesia x2017 0.704
+111 Indonesia x2018 0.707
+111 Indonesia x2019 0.707
+65 Iran x1990 0.577
+65 Iran x1991 0.594
+65 Iran x1992 0.608
+65 Iran x1993 0.619
+65 Iran x1994 0.629
+65 Iran x1995 0.64
+65 Iran x1996 0.647
+65 Iran x1997 0.653
+65 Iran x1998 0.659
+65 Iran x1999 0.664
+65 Iran x2000 0.671
+65 Iran x2001 0.678
+65 Iran x2002 0.683
+65 Iran x2003 0.69
+65 Iran x2004 0.691
+65 Iran x2005 0.696
+65 Iran x2006 0.732
+65 Iran x2007 0.736
+65 Iran x2008 0.741
+65 Iran x2009 0.747
+65 Iran x2010 0.756
+65 Iran x2011 0.767
+65 Iran x2012 0.782
+65 Iran x2013 0.785
+65 Iran x2014 0.788
+65 Iran x2015 0.789
+65 Iran x2016 0.799
+65 Iran x2017 0.799
+65 Iran x2018 0.797
+65 Iran x2019 0.797
+120 Iraq x1990 0.574
+120 Iraq x1991 0.532
+120 Iraq x1992 0.548
+120 Iraq x1993 0.563
+120 Iraq x1994 0.566
+120 Iraq x1995 0.569
+120 Iraq x1996 0.575
+120 Iraq x1997 0.583
+120 Iraq x1998 0.597
+120 Iraq x1999 0.604
+120 Iraq x2000 0.608
+120 Iraq x2001 0.615
+120 Iraq x2002 0.616
+120 Iraq x2003 0.604
+120 Iraq x2004 0.628
+120 Iraq x2005 0.632
+120 Iraq x2006 0.637
+120 Iraq x2007 0.639
+120 Iraq x2008 0.646
+120 Iraq x2009 0.648
+120 Iraq x2010 0.652
+120 Iraq x2011 0.658
+120 Iraq x2012 0.662
+120 Iraq x2013 0.662
+120 Iraq x2014 0.662
+120 Iraq x2015 0.665
+120 Iraq x2016 0.672
+120 Iraq x2017 0.684
+120 Iraq x2018 0.689
+120 Iraq x2019 0.689
+3 Ireland x1990 0.764
+3 Ireland x1991 0.767
+3 Ireland x1992 0.772
+3 Ireland x1993 0.781
+3 Ireland x1994 0.789
+3 Ireland x1995 0.795
+3 Ireland x1996 0.801
+3 Ireland x1997 0.809
+3 Ireland x1998 0.841
+3 Ireland x1999 0.849
+3 Ireland x2000 0.857
+3 Ireland x2001 0.863
+3 Ireland x2002 0.871
+3 Ireland x2003 0.879
+3 Ireland x2004 0.888
+3 Ireland x2005 0.893
+3 Ireland x2006 0.895
+3 Ireland x2007 0.899
+3 Ireland x2008 0.9
+3 Ireland x2009 0.896
+3 Ireland x2010 0.89
+3 Ireland x2011 0.894
+3 Ireland x2012 0.899
+3 Ireland x2013 0.908
+3 Ireland x2014 0.92
+3 Ireland x2015 0.926
+3 Ireland x2016 0.936
+3 Ireland x2017 0.939
+3 Ireland x2018 0.942
+3 Ireland x2019 0.942
+22 Israel x1990 0.792
+22 Israel x1991 0.8
+22 Israel x1992 0.807
+22 Israel x1993 0.813
+22 Israel x1994 0.818
+22 Israel x1995 0.824
+22 Israel x1996 0.828
+22 Israel x1997 0.836
+22 Israel x1998 0.843
+22 Israel x1999 0.85
+22 Israel x2000 0.853
+22 Israel x2001 0.857
+22 Israel x2002 0.865
+22 Israel x2003 0.865
+22 Israel x2004 0.867
+22 Israel x2005 0.871
+22 Israel x2006 0.872
+22 Israel x2007 0.881
+22 Israel x2008 0.88
+22 Israel x2009 0.882
+22 Israel x2010 0.887
+22 Israel x2011 0.892
+22 Israel x2012 0.893
+22 Israel x2013 0.895
+22 Israel x2014 0.9
+22 Israel x2015 0.901
+22 Israel x2016 0.902
+22 Israel x2017 0.904
+22 Israel x2018 0.906
+22 Israel x2019 0.906
+29 Italy x1990 0.769
+29 Italy x1991 0.774
+29 Italy x1992 0.78
+29 Italy x1993 0.786
+29 Italy x1994 0.794
+29 Italy x1995 0.8
+29 Italy x1996 0.806
+29 Italy x1997 0.814
+29 Italy x1998 0.819
+29 Italy x1999 0.824
+29 Italy x2000 0.83
+29 Italy x2001 0.837
+29 Italy x2002 0.842
+29 Italy x2003 0.847
+29 Italy x2004 0.852
+29 Italy x2005 0.857
+29 Italy x2006 0.862
+29 Italy x2007 0.866
+29 Italy x2008 0.868
+29 Italy x2009 0.868
+29 Italy x2010 0.871
+29 Italy x2011 0.875
+29 Italy x2012 0.874
+29 Italy x2013 0.873
+29 Italy x2014 0.874
+29 Italy x2015 0.875
+29 Italy x2016 0.878
+29 Italy x2017 0.881
+29 Italy x2018 0.883
+29 Italy x2019 0.883
+96 Jamaica x1990 0.641
+96 Jamaica x1991 0.646
+96 Jamaica x1992 0.65
+96 Jamaica x1993 0.66
+96 Jamaica x1994 0.662
+96 Jamaica x1995 0.665
+96 Jamaica x1996 0.668
+96 Jamaica x1997 0.669
+96 Jamaica x1998 0.67
+96 Jamaica x1999 0.672
+96 Jamaica x2000 0.669
+96 Jamaica x2001 0.68
+96 Jamaica x2002 0.683
+96 Jamaica x2003 0.678
+96 Jamaica x2004 0.695
+96 Jamaica x2005 0.698
+96 Jamaica x2006 0.702
+96 Jamaica x2007 0.71
+96 Jamaica x2008 0.728
+96 Jamaica x2009 0.724
+96 Jamaica x2010 0.723
+96 Jamaica x2011 0.723
+96 Jamaica x2012 0.722
+96 Jamaica x2013 0.72
+96 Jamaica x2014 0.72
+96 Jamaica x2015 0.722
+96 Jamaica x2016 0.722
+96 Jamaica x2017 0.725
+96 Jamaica x2018 0.726
+96 Jamaica x2019 0.726
+19 Japan x1990 0.816
+19 Japan x1991 0.821
+19 Japan x1992 0.824
+19 Japan x1993 0.829
+19 Japan x1994 0.835
+19 Japan x1995 0.84
+19 Japan x1996 0.845
+19 Japan x1997 0.848
+19 Japan x1998 0.847
+19 Japan x1999 0.85
+19 Japan x2000 0.855
+19 Japan x2001 0.859
+19 Japan x2002 0.862
+19 Japan x2003 0.865
+19 Japan x2004 0.869
+19 Japan x2005 0.873
+19 Japan x2006 0.877
+19 Japan x2007 0.88
+19 Japan x2008 0.881
+19 Japan x2009 0.88
+19 Japan x2010 0.885
+19 Japan x2011 0.89
+19 Japan x2012 0.895
+19 Japan x2013 0.9
+19 Japan x2014 0.904
+19 Japan x2015 0.906
+19 Japan x2016 0.91
+19 Japan x2017 0.913
+19 Japan x2018 0.915
+19 Japan x2019 0.915
+102 Jordan x1990 0.616
+102 Jordan x1991 0.627
+102 Jordan x1992 0.648
+102 Jordan x1993 0.659
+102 Jordan x1994 0.669
+102 Jordan x1995 0.683
+102 Jordan x1996 0.685
+102 Jordan x1997 0.689
+102 Jordan x1998 0.693
+102 Jordan x1999 0.696
+102 Jordan x2000 0.702
+102 Jordan x2001 0.708
+102 Jordan x2002 0.706
+102 Jordan x2003 0.711
+102 Jordan x2004 0.717
+102 Jordan x2005 0.729
+102 Jordan x2006 0.732
+102 Jordan x2007 0.735
+102 Jordan x2008 0.736
+102 Jordan x2009 0.734
+102 Jordan x2010 0.728
+102 Jordan x2011 0.725
+102 Jordan x2012 0.726
+102 Jordan x2013 0.72
+102 Jordan x2014 0.72
+102 Jordan x2015 0.721
+102 Jordan x2016 0.722
+102 Jordan x2017 0.722
+102 Jordan x2018 0.723
+102 Jordan x2019 0.723
+50 Kazakhstan x1990 0.69
+50 Kazakhstan x1991 0.684
+50 Kazakhstan x1992 0.681
+50 Kazakhstan x1993 0.675
+50 Kazakhstan x1994 0.667
+50 Kazakhstan x1995 0.664
+50 Kazakhstan x1996 0.666
+50 Kazakhstan x1997 0.669
+50 Kazakhstan x1998 0.672
+50 Kazakhstan x1999 0.676
+50 Kazakhstan x2000 0.685
+50 Kazakhstan x2001 0.7
+50 Kazakhstan x2002 0.713
+50 Kazakhstan x2003 0.725
+50 Kazakhstan x2004 0.737
+50 Kazakhstan x2005 0.747
+50 Kazakhstan x2006 0.754
+50 Kazakhstan x2007 0.758
+50 Kazakhstan x2008 0.758
+50 Kazakhstan x2009 0.762
+50 Kazakhstan x2010 0.764
+50 Kazakhstan x2011 0.772
+50 Kazakhstan x2012 0.782
+50 Kazakhstan x2013 0.791
+50 Kazakhstan x2014 0.798
+50 Kazakhstan x2015 0.806
+50 Kazakhstan x2016 0.808
+50 Kazakhstan x2017 0.813
+50 Kazakhstan x2018 0.817
+50 Kazakhstan x2019 0.817
+147 Kenya x1990 0.467
+147 Kenya x1991 0.465
+147 Kenya x1992 0.461
+147 Kenya x1993 0.456
+147 Kenya x1994 0.454
+147 Kenya x1995 0.453
+147 Kenya x1996 0.452
+147 Kenya x1997 0.449
+147 Kenya x1998 0.448
+147 Kenya x1999 0.447
+147 Kenya x2000 0.446
+147 Kenya x2001 0.45
+147 Kenya x2002 0.45
+147 Kenya x2003 0.462
+147 Kenya x2004 0.475
+147 Kenya x2005 0.484
+147 Kenya x2006 0.499
+147 Kenya x2007 0.507
+147 Kenya x2008 0.515
+147 Kenya x2009 0.524
+147 Kenya x2010 0.533
+147 Kenya x2011 0.54
+147 Kenya x2012 0.545
+147 Kenya x2013 0.551
+147 Kenya x2014 0.556
+147 Kenya x2015 0.562
+147 Kenya x2016 0.568
+147 Kenya x2017 0.574
+147 Kenya x2018 0.579
+147 Kenya x2019 0.579
+132 Kiribati x2000 0.564
+132 Kiribati x2001 0.582
+132 Kiribati x2002 0.58
+132 Kiribati x2003 0.586
+132 Kiribati x2004 0.585
+132 Kiribati x2005 0.585
+132 Kiribati x2006 0.582
+132 Kiribati x2007 0.583
+132 Kiribati x2008 0.586
+132 Kiribati x2009 0.585
+132 Kiribati x2010 0.589
+132 Kiribati x2011 0.587
+132 Kiribati x2012 0.596
+132 Kiribati x2013 0.605
+132 Kiribati x2014 0.613
+132 Kiribati x2015 0.619
+132 Kiribati x2016 0.622
+132 Kiribati x2017 0.623
+132 Kiribati x2018 0.623
+132 Kiribati x2019 0.623
+22 Korea (Republic of) x1990 0.728
+22 Korea (Republic of) x1991 0.739
+22 Korea (Republic of) x1992 0.746
+22 Korea (Republic of) x1993 0.756
+22 Korea (Republic of) x1994 0.767
+22 Korea (Republic of) x1995 0.778
+22 Korea (Republic of) x1996 0.789
+22 Korea (Republic of) x1997 0.8
+22 Korea (Republic of) x1998 0.797
+22 Korea (Republic of) x1999 0.808
+22 Korea (Republic of) x2000 0.817
+22 Korea (Republic of) x2001 0.824
+22 Korea (Republic of) x2002 0.832
+22 Korea (Republic of) x2003 0.839
+22 Korea (Republic of) x2004 0.847
+22 Korea (Republic of) x2005 0.855
+22 Korea (Republic of) x2006 0.862
+22 Korea (Republic of) x2007 0.869
+22 Korea (Republic of) x2008 0.874
+22 Korea (Republic of) x2009 0.871
+22 Korea (Republic of) x2010 0.882
+22 Korea (Republic of) x2011 0.888
+22 Korea (Republic of) x2012 0.89
+22 Korea (Republic of) x2013 0.893
+22 Korea (Republic of) x2014 0.896
+22 Korea (Republic of) x2015 0.899
+22 Korea (Republic of) x2016 0.901
+22 Korea (Republic of) x2017 0.904
+22 Korea (Republic of) x2018 0.906
+22 Korea (Republic of) x2019 0.906
+57 Kuwait x1990 0.712
+57 Kuwait x1991 0.673
+57 Kuwait x1992 0.666
+57 Kuwait x1993 0.695
+57 Kuwait x1994 0.722
+57 Kuwait x1995 0.748
+57 Kuwait x1996 0.772
+57 Kuwait x1997 0.775
+57 Kuwait x1998 0.781
+57 Kuwait x1999 0.786
+57 Kuwait x2000 0.786
+57 Kuwait x2001 0.785
+57 Kuwait x2002 0.788
+57 Kuwait x2003 0.791
+57 Kuwait x2004 0.789
+57 Kuwait x2005 0.783
+57 Kuwait x2006 0.788
+57 Kuwait x2007 0.789
+57 Kuwait x2008 0.79
+57 Kuwait x2009 0.792
+57 Kuwait x2010 0.794
+57 Kuwait x2011 0.796
+57 Kuwait x2012 0.8
+57 Kuwait x2013 0.798
+57 Kuwait x2014 0.8
+57 Kuwait x2015 0.807
+57 Kuwait x2016 0.809
+57 Kuwait x2017 0.809
+57 Kuwait x2018 0.808
+57 Kuwait x2019 0.808
+122 Kyrgyzstan x1990 0.618
+122 Kyrgyzstan x1991 0.611
+122 Kyrgyzstan x1992 0.601
+122 Kyrgyzstan x1993 0.588
+122 Kyrgyzstan x1994 0.569
+122 Kyrgyzstan x1995 0.563
+122 Kyrgyzstan x1996 0.568
+122 Kyrgyzstan x1997 0.576
+122 Kyrgyzstan x1998 0.58
+122 Kyrgyzstan x1999 0.587
+122 Kyrgyzstan x2000 0.594
+122 Kyrgyzstan x2001 0.602
+122 Kyrgyzstan x2002 0.604
+122 Kyrgyzstan x2003 0.611
+122 Kyrgyzstan x2004 0.615
+122 Kyrgyzstan x2005 0.616
+122 Kyrgyzstan x2006 0.621
+122 Kyrgyzstan x2007 0.628
+122 Kyrgyzstan x2008 0.631
+122 Kyrgyzstan x2009 0.635
+122 Kyrgyzstan x2010 0.636
+122 Kyrgyzstan x2011 0.639
+122 Kyrgyzstan x2012 0.649
+122 Kyrgyzstan x2013 0.658
+122 Kyrgyzstan x2014 0.663
+122 Kyrgyzstan x2015 0.666
+122 Kyrgyzstan x2016 0.669
+122 Kyrgyzstan x2017 0.671
+122 Kyrgyzstan x2018 0.674
+122 Kyrgyzstan x2019 0.674
+140 Lao People's Democratic Republic x1990 0.399
+140 Lao People's Democratic Republic x1991 0.404
+140 Lao People's Democratic Republic x1992 0.41
+140 Lao People's Democratic Republic x1993 0.415
+140 Lao People's Democratic Republic x1994 0.425
+140 Lao People's Democratic Republic x1995 0.427
+140 Lao People's Democratic Republic x1996 0.44
+140 Lao People's Democratic Republic x1997 0.447
+140 Lao People's Democratic Republic x1998 0.454
+140 Lao People's Democratic Republic x1999 0.462
+140 Lao People's Democratic Republic x2000 0.466
+140 Lao People's Democratic Republic x2001 0.471
+140 Lao People's Democratic Republic x2002 0.48
+140 Lao People's Democratic Republic x2003 0.488
+140 Lao People's Democratic Republic x2004 0.496
+140 Lao People's Democratic Republic x2005 0.505
+140 Lao People's Democratic Republic x2006 0.511
+140 Lao People's Democratic Republic x2007 0.521
+140 Lao People's Democratic Republic x2008 0.528
+140 Lao People's Democratic Republic x2009 0.539
+140 Lao People's Democratic Republic x2010 0.546
+140 Lao People's Democratic Republic x2011 0.558
+140 Lao People's Democratic Republic x2012 0.569
+140 Lao People's Democratic Republic x2013 0.579
+140 Lao People's Democratic Republic x2014 0.586
+140 Lao People's Democratic Republic x2015 0.594
+140 Lao People's Democratic Republic x2016 0.598
+140 Lao People's Democratic Republic x2017 0.602
+140 Lao People's Democratic Republic x2018 0.604
+140 Lao People's Democratic Republic x2019 0.604
+39 Latvia x1990 0.698
+39 Latvia x1991 0.693
+39 Latvia x1992 0.671
+39 Latvia x1993 0.661
+39 Latvia x1994 0.661
+39 Latvia x1995 0.673
+39 Latvia x1996 0.68
+39 Latvia x1997 0.692
+39 Latvia x1998 0.705
+39 Latvia x1999 0.716
+39 Latvia x2000 0.728
+39 Latvia x2001 0.745
+39 Latvia x2002 0.76
+39 Latvia x2003 0.774
+39 Latvia x2004 0.788
+39 Latvia x2005 0.802
+39 Latvia x2006 0.809
+39 Latvia x2007 0.818
+39 Latvia x2008 0.821
+39 Latvia x2009 0.819
+39 Latvia x2010 0.817
+39 Latvia x2011 0.822
+39 Latvia x2012 0.825
+39 Latvia x2013 0.834
+39 Latvia x2014 0.836
+39 Latvia x2015 0.842
+39 Latvia x2016 0.845
+39 Latvia x2017 0.849
+39 Latvia x2018 0.854
+39 Latvia x2019 0.854
+93 Lebanon x2005 0.724
+93 Lebanon x2006 0.723
+93 Lebanon x2007 0.736
+93 Lebanon x2008 0.742
+93 Lebanon x2009 0.749
+93 Lebanon x2010 0.751
+93 Lebanon x2011 0.753
+93 Lebanon x2012 0.744
+93 Lebanon x2013 0.741
+93 Lebanon x2014 0.732
+93 Lebanon x2015 0.728
+93 Lebanon x2016 0.725
+93 Lebanon x2017 0.732
+93 Lebanon x2018 0.73
+93 Lebanon x2019 0.73
+164 Lesotho x1990 0.488
+164 Lesotho x1991 0.487
+164 Lesotho x1992 0.485
+164 Lesotho x1993 0.478
+164 Lesotho x1994 0.479
+164 Lesotho x1995 0.475
+164 Lesotho x1996 0.47
+164 Lesotho x1997 0.463
+164 Lesotho x1998 0.453
+164 Lesotho x1999 0.445
+164 Lesotho x2000 0.444
+164 Lesotho x2001 0.445
+164 Lesotho x2002 0.44
+164 Lesotho x2003 0.438
+164 Lesotho x2004 0.433
+164 Lesotho x2005 0.43
+164 Lesotho x2006 0.431
+164 Lesotho x2007 0.441
+164 Lesotho x2008 0.446
+164 Lesotho x2009 0.455
+164 Lesotho x2010 0.461
+164 Lesotho x2011 0.47
+164 Lesotho x2012 0.48
+164 Lesotho x2013 0.486
+164 Lesotho x2014 0.493
+164 Lesotho x2015 0.499
+164 Lesotho x2016 0.507
+164 Lesotho x2017 0.514
+164 Lesotho x2018 0.518
+164 Lesotho x2019 0.518
+176 Liberia x1999 0.361
+176 Liberia x2000 0.422
+176 Liberia x2001 0.421
+176 Liberia x2002 0.423
+176 Liberia x2003 0.402
+176 Liberia x2004 0.412
+176 Liberia x2005 0.417
+176 Liberia x2006 0.424
+176 Liberia x2007 0.431
+176 Liberia x2008 0.436
+176 Liberia x2009 0.438
+176 Liberia x2010 0.441
+176 Liberia x2011 0.457
+176 Liberia x2012 0.455
+176 Liberia x2013 0.463
+176 Liberia x2014 0.464
+176 Liberia x2015 0.463
+176 Liberia x2016 0.463
+176 Liberia x2017 0.466
+176 Liberia x2018 0.465
+176 Liberia x2019 0.465
+110 Libya x1990 0.676
+110 Libya x1991 0.688
+110 Libya x1992 0.692
+110 Libya x1993 0.695
+110 Libya x1994 0.7
+110 Libya x1995 0.704
+110 Libya x1996 0.709
+110 Libya x1997 0.716
+110 Libya x1998 0.719
+110 Libya x1999 0.723
+110 Libya x2000 0.728
+110 Libya x2001 0.733
+110 Libya x2002 0.737
+110 Libya x2003 0.745
+110 Libya x2004 0.745
+110 Libya x2005 0.749
+110 Libya x2006 0.753
+110 Libya x2007 0.754
+110 Libya x2008 0.759
+110 Libya x2009 0.757
+110 Libya x2010 0.757
+110 Libya x2011 0.708
+110 Libya x2012 0.742
+110 Libya x2013 0.707
+110 Libya x2014 0.693
+110 Libya x2015 0.691
+110 Libya x2016 0.69
+110 Libya x2017 0.704
+110 Libya x2018 0.708
+110 Libya x2019 0.708
+18 Liechtenstein x2000 0.862
+18 Liechtenstein x2001 0.868
+18 Liechtenstein x2002 0.873
+18 Liechtenstein x2003 0.878
+18 Liechtenstein x2004 0.883
+18 Liechtenstein x2005 0.886
+18 Liechtenstein x2006 0.89
+18 Liechtenstein x2007 0.893
+18 Liechtenstein x2008 0.899
+18 Liechtenstein x2009 0.899
+18 Liechtenstein x2010 0.904
+18 Liechtenstein x2011 0.909
+18 Liechtenstein x2012 0.91
+18 Liechtenstein x2013 0.912
+18 Liechtenstein x2014 0.911
+18 Liechtenstein x2015 0.912
+18 Liechtenstein x2016 0.915
+18 Liechtenstein x2017 0.916
+18 Liechtenstein x2018 0.917
+18 Liechtenstein x2019 0.917
+34 Lithuania x1990 0.732
+34 Lithuania x1991 0.728
+34 Lithuania x1992 0.713
+34 Lithuania x1993 0.701
+34 Lithuania x1994 0.697
+34 Lithuania x1995 0.703
+34 Lithuania x1996 0.712
+34 Lithuania x1997 0.724
+34 Lithuania x1998 0.736
+34 Lithuania x1999 0.744
+34 Lithuania x2000 0.755
+34 Lithuania x2001 0.767
+34 Lithuania x2002 0.778
+34 Lithuania x2003 0.79
+34 Lithuania x2004 0.798
+34 Lithuania x2005 0.81
+34 Lithuania x2006 0.819
+34 Lithuania x2007 0.826
+34 Lithuania x2008 0.831
+34 Lithuania x2009 0.821
+34 Lithuania x2010 0.824
+34 Lithuania x2011 0.831
+34 Lithuania x2012 0.835
+34 Lithuania x2013 0.84
+34 Lithuania x2014 0.852
+34 Lithuania x2015 0.855
+34 Lithuania x2016 0.86
+34 Lithuania x2017 0.866
+34 Lithuania x2018 0.869
+34 Lithuania x2019 0.869
+21 Luxembourg x1990 0.791
+21 Luxembourg x1991 0.798
+21 Luxembourg x1992 0.803
+21 Luxembourg x1993 0.808
+21 Luxembourg x1994 0.812
+21 Luxembourg x1995 0.817
+21 Luxembourg x1996 0.826
+21 Luxembourg x1997 0.835
+21 Luxembourg x1998 0.843
+21 Luxembourg x1999 0.856
+21 Luxembourg x2000 0.86
+21 Luxembourg x2001 0.865
+21 Luxembourg x2002 0.869
+21 Luxembourg x2003 0.87
+21 Luxembourg x2004 0.876
+21 Luxembourg x2005 0.88
+21 Luxembourg x2006 0.884
+21 Luxembourg x2007 0.888
+21 Luxembourg x2008 0.89
+21 Luxembourg x2009 0.885
+21 Luxembourg x2010 0.893
+21 Luxembourg x2011 0.892
+21 Luxembourg x2012 0.892
+21 Luxembourg x2013 0.892
+21 Luxembourg x2014 0.895
+21 Luxembourg x2015 0.899
+21 Luxembourg x2016 0.904
+21 Luxembourg x2017 0.908
+21 Luxembourg x2018 0.909
+21 Luxembourg x2019 0.909
+162 Madagascar x2000 0.456
+162 Madagascar x2001 0.462
+162 Madagascar x2002 0.457
+162 Madagascar x2003 0.466
+162 Madagascar x2004 0.472
+162 Madagascar x2005 0.479
+162 Madagascar x2006 0.484
+162 Madagascar x2007 0.491
+162 Madagascar x2008 0.5
+162 Madagascar x2009 0.503
+162 Madagascar x2010 0.504
+162 Madagascar x2011 0.504
+162 Madagascar x2012 0.507
+162 Madagascar x2013 0.509
+162 Madagascar x2014 0.512
+162 Madagascar x2015 0.514
+162 Madagascar x2016 0.515
+162 Madagascar x2017 0.518
+162 Madagascar x2018 0.521
+162 Madagascar x2019 0.521
+172 Malawi x1990 0.303
+172 Malawi x1991 0.31
+172 Malawi x1992 0.319
+172 Malawi x1993 0.327
+172 Malawi x1994 0.323
+172 Malawi x1995 0.363
+172 Malawi x1996 0.366
+172 Malawi x1997 0.367
+172 Malawi x1998 0.368
+172 Malawi x1999 0.368
+172 Malawi x2000 0.362
+172 Malawi x2001 0.362
+172 Malawi x2002 0.363
+172 Malawi x2003 0.367
+172 Malawi x2004 0.368
+172 Malawi x2005 0.373
+172 Malawi x2006 0.383
+172 Malawi x2007 0.394
+172 Malawi x2008 0.411
+172 Malawi x2009 0.426
+172 Malawi x2010 0.437
+172 Malawi x2011 0.447
+172 Malawi x2012 0.452
+172 Malawi x2013 0.463
+172 Malawi x2014 0.472
+172 Malawi x2015 0.475
+172 Malawi x2016 0.478
+172 Malawi x2017 0.482
+172 Malawi x2018 0.485
+172 Malawi x2019 0.485
+61 Malaysia x1990 0.644
+61 Malaysia x1991 0.652
+61 Malaysia x1992 0.661
+61 Malaysia x1993 0.668
+61 Malaysia x1994 0.676
+61 Malaysia x1995 0.683
+61 Malaysia x1996 0.695
+61 Malaysia x1997 0.706
+61 Malaysia x1998 0.709
+61 Malaysia x1999 0.715
+61 Malaysia x2000 0.724
+61 Malaysia x2001 0.722
+61 Malaysia x2002 0.724
+61 Malaysia x2003 0.731
+61 Malaysia x2004 0.734
+61 Malaysia x2005 0.732
+61 Malaysia x2006 0.738
+61 Malaysia x2007 0.751
+61 Malaysia x2008 0.762
+61 Malaysia x2009 0.766
+61 Malaysia x2010 0.773
+61 Malaysia x2011 0.779
+61 Malaysia x2012 0.782
+61 Malaysia x2013 0.787
+61 Malaysia x2014 0.792
+61 Malaysia x2015 0.797
+61 Malaysia x2016 0.801
+61 Malaysia x2017 0.802
+61 Malaysia x2018 0.804
+61 Malaysia x2019 0.804
+104 Maldives x1995 0.546
+104 Maldives x1996 0.559
+104 Maldives x1997 0.573
+104 Maldives x1998 0.587
+104 Maldives x1999 0.601
+104 Maldives x2000 0.61
+104 Maldives x2001 0.616
+104 Maldives x2002 0.619
+104 Maldives x2003 0.633
+104 Maldives x2004 0.638
+104 Maldives x2005 0.632
+104 Maldives x2006 0.647
+104 Maldives x2007 0.647
+104 Maldives x2008 0.657
+104 Maldives x2009 0.658
+104 Maldives x2010 0.669
+104 Maldives x2011 0.681
+104 Maldives x2012 0.688
+104 Maldives x2013 0.693
+104 Maldives x2014 0.702
+104 Maldives x2015 0.709
+104 Maldives x2016 0.713
+104 Maldives x2017 0.716
+104 Maldives x2018 0.719
+104 Maldives x2019 0.719
+184 Mali x1990 0.231
+184 Mali x1991 0.238
+184 Mali x1992 0.243
+184 Mali x1993 0.25
+184 Mali x1994 0.256
+184 Mali x1995 0.262
+184 Mali x1996 0.271
+184 Mali x1997 0.281
+184 Mali x1998 0.291
+184 Mali x1999 0.302
+184 Mali x2000 0.308
+184 Mali x2001 0.321
+184 Mali x2002 0.33
+184 Mali x2003 0.343
+184 Mali x2004 0.352
+184 Mali x2005 0.363
+184 Mali x2006 0.372
+184 Mali x2007 0.367
+184 Mali x2008 0.39
+184 Mali x2009 0.398
+184 Mali x2010 0.403
+184 Mali x2011 0.408
+184 Mali x2012 0.408
+184 Mali x2013 0.408
+184 Mali x2014 0.414
+184 Mali x2015 0.412
+184 Mali x2016 0.42
+184 Mali x2017 0.426
+184 Mali x2018 0.427
+184 Mali x2019 0.427
+28 Malta x1990 0.744
+28 Malta x1991 0.749
+28 Malta x1992 0.753
+28 Malta x1993 0.757
+28 Malta x1994 0.76
+28 Malta x1995 0.764
+28 Malta x1996 0.767
+28 Malta x1997 0.772
+28 Malta x1998 0.78
+28 Malta x1999 0.785
+28 Malta x2000 0.787
+28 Malta x2001 0.793
+28 Malta x2002 0.797
+28 Malta x2003 0.804
+28 Malta x2004 0.813
+28 Malta x2005 0.828
+28 Malta x2006 0.826
+28 Malta x2007 0.831
+28 Malta x2008 0.833
+28 Malta x2009 0.835
+28 Malta x2010 0.847
+28 Malta x2011 0.848
+28 Malta x2012 0.854
+28 Malta x2013 0.861
+28 Malta x2014 0.868
+28 Malta x2015 0.877
+28 Malta x2016 0.881
+28 Malta x2017 0.883
+28 Malta x2018 0.885
+28 Malta x2019 0.885
+117 Marshall Islands x2017 0.696
+117 Marshall Islands x2018 0.698
+117 Marshall Islands x2019 0.698
+161 Mauritania x1990 0.378
+161 Mauritania x1991 0.383
+161 Mauritania x1992 0.391
+161 Mauritania x1993 0.403
+161 Mauritania x1994 0.415
+161 Mauritania x1995 0.422
+161 Mauritania x1996 0.431
+161 Mauritania x1997 0.43
+161 Mauritania x1998 0.438
+161 Mauritania x1999 0.445
+161 Mauritania x2000 0.446
+161 Mauritania x2001 0.446
+161 Mauritania x2002 0.451
+161 Mauritania x2003 0.455
+161 Mauritania x2004 0.465
+161 Mauritania x2005 0.47
+161 Mauritania x2006 0.479
+161 Mauritania x2007 0.479
+161 Mauritania x2008 0.48
+161 Mauritania x2009 0.487
+161 Mauritania x2010 0.49
+161 Mauritania x2011 0.494
+161 Mauritania x2012 0.503
+161 Mauritania x2013 0.511
+161 Mauritania x2014 0.518
+161 Mauritania x2015 0.521
+161 Mauritania x2016 0.519
+161 Mauritania x2017 0.524
+161 Mauritania x2018 0.527
+161 Mauritania x2019 0.527
+66 Mauritius x1990 0.62
+66 Mauritius x1991 0.627
+66 Mauritius x1992 0.634
+66 Mauritius x1993 0.639
+66 Mauritius x1994 0.644
+66 Mauritius x1995 0.649
+66 Mauritius x1996 0.653
+66 Mauritius x1997 0.657
+66 Mauritius x1998 0.663
+66 Mauritius x1999 0.668
+66 Mauritius x2000 0.674
+66 Mauritius x2001 0.683
+66 Mauritius x2002 0.688
+66 Mauritius x2003 0.697
+66 Mauritius x2004 0.705
+66 Mauritius x2005 0.713
+66 Mauritius x2006 0.72
+66 Mauritius x2007 0.728
+66 Mauritius x2008 0.734
+66 Mauritius x2009 0.742
+66 Mauritius x2010 0.748
+66 Mauritius x2011 0.756
+66 Mauritius x2012 0.768
+66 Mauritius x2013 0.775
+66 Mauritius x2014 0.786
+66 Mauritius x2015 0.786
+66 Mauritius x2016 0.79
+66 Mauritius x2017 0.793
+66 Mauritius x2018 0.796
+66 Mauritius x2019 0.796
+76 Mexico x1990 0.652
+76 Mexico x1991 0.655
+76 Mexico x1992 0.66
+76 Mexico x1993 0.664
+76 Mexico x1994 0.67
+76 Mexico x1995 0.672
+76 Mexico x1996 0.679
+76 Mexico x1997 0.685
+76 Mexico x1998 0.693
+76 Mexico x1999 0.698
+76 Mexico x2000 0.705
+76 Mexico x2001 0.708
+76 Mexico x2002 0.714
+76 Mexico x2003 0.72
+76 Mexico x2004 0.726
+76 Mexico x2005 0.729
+76 Mexico x2006 0.737
+76 Mexico x2007 0.738
+76 Mexico x2008 0.74
+76 Mexico x2009 0.739
+76 Mexico x2010 0.739
+76 Mexico x2011 0.746
+76 Mexico x2012 0.752
+76 Mexico x2013 0.75
+76 Mexico x2014 0.754
+76 Mexico x2015 0.759
+76 Mexico x2016 0.764
+76 Mexico x2017 0.765
+76 Mexico x2018 0.767
+76 Mexico x2019 0.767
+135 Micronesia (Federated States of) x2000 0.541
+135 Micronesia (Federated States of) x2001 0.547
+135 Micronesia (Federated States of) x2002 0.553
+135 Micronesia (Federated States of) x2003 0.56
+135 Micronesia (Federated States of) x2004 0.564
+135 Micronesia (Federated States of) x2005 0.572
+135 Micronesia (Federated States of) x2006 0.578
+135 Micronesia (Federated States of) x2007 0.583
+135 Micronesia (Federated States of) x2008 0.587
+135 Micronesia (Federated States of) x2009 0.59
+135 Micronesia (Federated States of) x2010 0.595
+135 Micronesia (Federated States of) x2011 0.598
+135 Micronesia (Federated States of) x2012 0.599
+135 Micronesia (Federated States of) x2013 0.599
+135 Micronesia (Federated States of) x2014 0.598
+135 Micronesia (Federated States of) x2015 0.606
+135 Micronesia (Federated States of) x2016 0.608
+135 Micronesia (Federated States of) x2017 0.612
+135 Micronesia (Federated States of) x2018 0.614
+135 Micronesia (Federated States of) x2019 0.614
+107 Moldova (Republic of) x1990 0.653
+107 Moldova (Republic of) x1991 0.642
+107 Moldova (Republic of) x1992 0.622
+107 Moldova (Republic of) x1993 0.62
+107 Moldova (Republic of) x1994 0.598
+107 Moldova (Republic of) x1995 0.605
+107 Moldova (Republic of) x1996 0.602
+107 Moldova (Republic of) x1997 0.604
+107 Moldova (Republic of) x1998 0.604
+107 Moldova (Republic of) x1999 0.607
+107 Moldova (Republic of) x2000 0.609
+107 Moldova (Republic of) x2001 0.618
+107 Moldova (Republic of) x2002 0.628
+107 Moldova (Republic of) x2003 0.641
+107 Moldova (Republic of) x2004 0.651
+107 Moldova (Republic of) x2005 0.658
+107 Moldova (Republic of) x2006 0.667
+107 Moldova (Republic of) x2007 0.672
+107 Moldova (Republic of) x2008 0.677
+107 Moldova (Republic of) x2009 0.673
+107 Moldova (Republic of) x2010 0.681
+107 Moldova (Republic of) x2011 0.687
+107 Moldova (Republic of) x2012 0.693
+107 Moldova (Republic of) x2013 0.702
+107 Moldova (Republic of) x2014 0.705
+107 Moldova (Republic of) x2015 0.703
+107 Moldova (Republic of) x2016 0.705
+107 Moldova (Republic of) x2017 0.709
+107 Moldova (Republic of) x2018 0.711
+107 Moldova (Republic of) x2019 0.711
+92 Mongolia x1990 0.583
+92 Mongolia x1991 0.575
+92 Mongolia x1992 0.561
+92 Mongolia x1993 0.547
+92 Mongolia x1994 0.549
+92 Mongolia x1995 0.553
+92 Mongolia x1996 0.56
+92 Mongolia x1997 0.566
+92 Mongolia x1998 0.574
+92 Mongolia x1999 0.581
+92 Mongolia x2000 0.589
+92 Mongolia x2001 0.6
+92 Mongolia x2002 0.609
+92 Mongolia x2003 0.622
+92 Mongolia x2004 0.636
+92 Mongolia x2005 0.649
+92 Mongolia x2006 0.66
+92 Mongolia x2007 0.671
+92 Mongolia x2008 0.682
+92 Mongolia x2009 0.688
+92 Mongolia x2010 0.697
+92 Mongolia x2011 0.711
+92 Mongolia x2012 0.719
+92 Mongolia x2013 0.728
+92 Mongolia x2014 0.733
+92 Mongolia x2015 0.736
+92 Mongolia x2016 0.73
+92 Mongolia x2017 0.729
+92 Mongolia x2018 0.735
+92 Mongolia x2019 0.735
+52 Montenegro x2003 0.741
+52 Montenegro x2004 0.748
+52 Montenegro x2005 0.753
+52 Montenegro x2006 0.764
+52 Montenegro x2007 0.775
+52 Montenegro x2008 0.785
+52 Montenegro x2009 0.787
+52 Montenegro x2010 0.793
+52 Montenegro x2011 0.797
+52 Montenegro x2012 0.798
+52 Montenegro x2013 0.801
+52 Montenegro x2014 0.803
+52 Montenegro x2015 0.807
+52 Montenegro x2016 0.809
+52 Montenegro x2017 0.813
+52 Montenegro x2018 0.816
+52 Montenegro x2019 0.816
+121 Morocco x1990 0.458
+121 Morocco x1991 0.464
+121 Morocco x1992 0.468
+121 Morocco x1993 0.474
+121 Morocco x1994 0.485
+121 Morocco x1995 0.489
+121 Morocco x1996 0.499
+121 Morocco x1997 0.503
+121 Morocco x1998 0.511
+121 Morocco x1999 0.52
+121 Morocco x2000 0.531
+121 Morocco x2001 0.542
+121 Morocco x2002 0.553
+121 Morocco x2003 0.564
+121 Morocco x2004 0.573
+121 Morocco x2005 0.581
+121 Morocco x2006 0.588
+121 Morocco x2007 0.596
+121 Morocco x2008 0.603
+121 Morocco x2009 0.609
+121 Morocco x2010 0.618
+121 Morocco x2011 0.627
+121 Morocco x2012 0.636
+121 Morocco x2013 0.646
+121 Morocco x2014 0.653
+121 Morocco x2015 0.66
+121 Morocco x2016 0.669
+121 Morocco x2017 0.675
+121 Morocco x2018 0.676
+121 Morocco x2019 0.676
+180 Mozambique x1990 0.217
+180 Mozambique x1991 0.22
+180 Mozambique x1992 0.215
+180 Mozambique x1993 0.221
+180 Mozambique x1994 0.228
+180 Mozambique x1995 0.235
+180 Mozambique x1996 0.258
+180 Mozambique x1997 0.271
+180 Mozambique x1998 0.283
+180 Mozambique x1999 0.294
+180 Mozambique x2000 0.301
+180 Mozambique x2001 0.314
+180 Mozambique x2002 0.32
+180 Mozambique x2003 0.334
+180 Mozambique x2004 0.343
+180 Mozambique x2005 0.354
+180 Mozambique x2006 0.361
+180 Mozambique x2007 0.372
+180 Mozambique x2008 0.381
+180 Mozambique x2009 0.389
+180 Mozambique x2010 0.396
+180 Mozambique x2011 0.391
+180 Mozambique x2012 0.398
+180 Mozambique x2013 0.412
+180 Mozambique x2014 0.42
+180 Mozambique x2015 0.428
+180 Mozambique x2016 0.435
+180 Mozambique x2017 0.442
+180 Mozambique x2018 0.446
+180 Mozambique x2019 0.446
+145 Myanmar x1990 0.35
+145 Myanmar x1991 0.357
+145 Myanmar x1992 0.371
+145 Myanmar x1993 0.377
+145 Myanmar x1994 0.384
+145 Myanmar x1995 0.388
+145 Myanmar x1996 0.394
+145 Myanmar x1997 0.4
+145 Myanmar x1998 0.405
+145 Myanmar x1999 0.414
+145 Myanmar x2000 0.424
+145 Myanmar x2001 0.432
+145 Myanmar x2002 0.441
+145 Myanmar x2003 0.451
+145 Myanmar x2004 0.46
+145 Myanmar x2005 0.47
+145 Myanmar x2006 0.479
+145 Myanmar x2007 0.49
+145 Myanmar x2008 0.501
+145 Myanmar x2009 0.512
+145 Myanmar x2010 0.523
+145 Myanmar x2011 0.534
+145 Myanmar x2012 0.541
+145 Myanmar x2013 0.551
+145 Myanmar x2014 0.558
+145 Myanmar x2015 0.565
+145 Myanmar x2016 0.571
+145 Myanmar x2017 0.577
+145 Myanmar x2018 0.584
+145 Myanmar x2019 0.584
+130 Namibia x1990 0.579
+130 Namibia x1991 0.582
+130 Namibia x1992 0.586
+130 Namibia x1993 0.586
+130 Namibia x1994 0.586
+130 Namibia x1995 0.581
+130 Namibia x1996 0.571
+130 Namibia x1997 0.563
+130 Namibia x1998 0.556
+130 Namibia x1999 0.546
+130 Namibia x2000 0.543
+130 Namibia x2001 0.542
+130 Namibia x2002 0.54
+130 Namibia x2003 0.542
+130 Namibia x2004 0.544
+130 Namibia x2005 0.544
+130 Namibia x2006 0.55
+130 Namibia x2007 0.558
+130 Namibia x2008 0.566
+130 Namibia x2009 0.575
+130 Namibia x2010 0.588
+130 Namibia x2011 0.601
+130 Namibia x2012 0.612
+130 Namibia x2013 0.622
+130 Namibia x2014 0.631
+130 Namibia x2015 0.637
+130 Namibia x2016 0.639
+130 Namibia x2017 0.643
+130 Namibia x2018 0.645
+130 Namibia x2019 0.645
+147 Nepal x1990 0.38
+147 Nepal x1991 0.388
+147 Nepal x1992 0.395
+147 Nepal x1993 0.4
+147 Nepal x1994 0.407
+147 Nepal x1995 0.411
+147 Nepal x1996 0.421
+147 Nepal x1997 0.427
+147 Nepal x1998 0.432
+147 Nepal x1999 0.439
+147 Nepal x2000 0.446
+147 Nepal x2001 0.446
+147 Nepal x2002 0.456
+147 Nepal x2003 0.461
+147 Nepal x2004 0.468
+147 Nepal x2005 0.474
+147 Nepal x2006 0.484
+147 Nepal x2007 0.49
+147 Nepal x2008 0.5
+147 Nepal x2009 0.513
+147 Nepal x2010 0.527
+147 Nepal x2011 0.534
+147 Nepal x2012 0.548
+147 Nepal x2013 0.555
+147 Nepal x2014 0.562
+147 Nepal x2015 0.568
+147 Nepal x2016 0.572
+147 Nepal x2017 0.574
+147 Nepal x2018 0.579
+147 Nepal x2019 0.579
+10 Netherlands x1990 0.83
+10 Netherlands x1991 0.834
+10 Netherlands x1992 0.835
+10 Netherlands x1993 0.84
+10 Netherlands x1994 0.864
+10 Netherlands x1995 0.862
+10 Netherlands x1996 0.866
+10 Netherlands x1997 0.866
+10 Netherlands x1998 0.868
+10 Netherlands x1999 0.871
+10 Netherlands x2000 0.876
+10 Netherlands x2001 0.88
+10 Netherlands x2002 0.879
+10 Netherlands x2003 0.883
+10 Netherlands x2004 0.886
+10 Netherlands x2005 0.891
+10 Netherlands x2006 0.897
+10 Netherlands x2007 0.904
+10 Netherlands x2008 0.906
+10 Netherlands x2009 0.906
+10 Netherlands x2010 0.911
+10 Netherlands x2011 0.922
+10 Netherlands x2012 0.921
+10 Netherlands x2013 0.924
+10 Netherlands x2014 0.925
+10 Netherlands x2015 0.927
+10 Netherlands x2016 0.929
+10 Netherlands x2017 0.932
+10 Netherlands x2018 0.934
+10 Netherlands x2019 0.934
+14 New Zealand x1990 0.82
+14 New Zealand x1991 0.821
+14 New Zealand x1992 0.826
+14 New Zealand x1993 0.838
+14 New Zealand x1994 0.847
+14 New Zealand x1995 0.853
+14 New Zealand x1996 0.856
+14 New Zealand x1997 0.861
+14 New Zealand x1998 0.864
+14 New Zealand x1999 0.865
+14 New Zealand x2000 0.87
+14 New Zealand x2001 0.874
+14 New Zealand x2002 0.882
+14 New Zealand x2003 0.885
+14 New Zealand x2004 0.887
+14 New Zealand x2005 0.889
+14 New Zealand x2006 0.892
+14 New Zealand x2007 0.894
+14 New Zealand x2008 0.895
+14 New Zealand x2009 0.898
+14 New Zealand x2010 0.899
+14 New Zealand x2011 0.902
+14 New Zealand x2012 0.905
+14 New Zealand x2013 0.907
+14 New Zealand x2014 0.91
+14 New Zealand x2015 0.914
+14 New Zealand x2016 0.917
+14 New Zealand x2017 0.92
+14 New Zealand x2018 0.921
+14 New Zealand x2019 0.921
+126 Nicaragua x1990 0.494
+126 Nicaragua x1991 0.491
+126 Nicaragua x1992 0.493
+126 Nicaragua x1993 0.499
+126 Nicaragua x1994 0.513
+126 Nicaragua x1995 0.523
+126 Nicaragua x1996 0.533
+126 Nicaragua x1997 0.542
+126 Nicaragua x1998 0.551
+126 Nicaragua x1999 0.56
+126 Nicaragua x2000 0.568
+126 Nicaragua x2001 0.575
+126 Nicaragua x2002 0.581
+126 Nicaragua x2003 0.584
+126 Nicaragua x2004 0.589
+126 Nicaragua x2005 0.593
+126 Nicaragua x2006 0.596
+126 Nicaragua x2007 0.602
+126 Nicaragua x2008 0.607
+126 Nicaragua x2009 0.608
+126 Nicaragua x2010 0.614
+126 Nicaragua x2011 0.619
+126 Nicaragua x2012 0.625
+126 Nicaragua x2013 0.63
+126 Nicaragua x2014 0.64
+126 Nicaragua x2015 0.644
+126 Nicaragua x2016 0.649
+126 Nicaragua x2017 0.653
+126 Nicaragua x2018 0.651
+126 Nicaragua x2019 0.651
+189 Niger x1990 0.213
+189 Niger x1991 0.217
+189 Niger x1992 0.217
+189 Niger x1993 0.221
+189 Niger x1994 0.226
+189 Niger x1995 0.23
+189 Niger x1996 0.236
+189 Niger x1997 0.24
+189 Niger x1998 0.248
+189 Niger x1999 0.251
+189 Niger x2000 0.253
+189 Niger x2001 0.259
+189 Niger x2002 0.263
+189 Niger x2003 0.268
+189 Niger x2004 0.276
+189 Niger x2005 0.283
+189 Niger x2006 0.29
+189 Niger x2007 0.295
+189 Niger x2008 0.304
+189 Niger x2009 0.309
+189 Niger x2010 0.319
+189 Niger x2011 0.326
+189 Niger x2012 0.338
+189 Niger x2013 0.345
+189 Niger x2014 0.353
+189 Niger x2015 0.36
+189 Niger x2016 0.365
+189 Niger x2017 0.373
+189 Niger x2018 0.377
+189 Niger x2019 0.377
+158 Nigeria x2003 0.452
+158 Nigeria x2004 0.462
+158 Nigeria x2005 0.467
+158 Nigeria x2006 0.474
+158 Nigeria x2007 0.479
+158 Nigeria x2008 0.485
+158 Nigeria x2009 0.491
+158 Nigeria x2010 0.484
+158 Nigeria x2011 0.494
+158 Nigeria x2012 0.502
+158 Nigeria x2013 0.52
+158 Nigeria x2014 0.523
+158 Nigeria x2015 0.527
+158 Nigeria x2016 0.528
+158 Nigeria x2017 0.533
+158 Nigeria x2018 0.534
+158 Nigeria x2019 0.534
+82 North Macedonia x2000 0.669
+82 North Macedonia x2001 0.673
+82 North Macedonia x2002 0.679
+82 North Macedonia x2003 0.686
+82 North Macedonia x2004 0.693
+82 North Macedonia x2005 0.702
+82 North Macedonia x2006 0.708
+82 North Macedonia x2007 0.713
+82 North Macedonia x2008 0.729
+82 North Macedonia x2009 0.731
+82 North Macedonia x2010 0.735
+82 North Macedonia x2011 0.739
+82 North Macedonia x2012 0.74
+82 North Macedonia x2013 0.743
+82 North Macedonia x2014 0.747
+82 North Macedonia x2015 0.753
+82 North Macedonia x2016 0.757
+82 North Macedonia x2017 0.758
+82 North Macedonia x2018 0.759
+82 North Macedonia x2019 0.759
+1 Norway x1990 0.85
+1 Norway x1991 0.856
+1 Norway x1992 0.862
+1 Norway x1993 0.87
+1 Norway x1994 0.885
+1 Norway x1995 0.883
+1 Norway x1996 0.888
+1 Norway x1997 0.894
+1 Norway x1998 0.906
+1 Norway x1999 0.911
+1 Norway x2000 0.917
+1 Norway x2001 0.916
+1 Norway x2002 0.918
+1 Norway x2003 0.924
+1 Norway x2004 0.934
+1 Norway x2005 0.932
+1 Norway x2006 0.936
+1 Norway x2007 0.938
+1 Norway x2008 0.938
+1 Norway x2009 0.938
+1 Norway x2010 0.942
+1 Norway x2011 0.943
+1 Norway x2012 0.942
+1 Norway x2013 0.946
+1 Norway x2014 0.945
+1 Norway x2015 0.948
+1 Norway x2016 0.951
+1 Norway x2017 0.953
+1 Norway x2018 0.954
+1 Norway x2019 0.954
+47 Oman x2000 0.704
+47 Oman x2001 0.716
+47 Oman x2002 0.725
+47 Oman x2003 0.735
+47 Oman x2004 0.742
+47 Oman x2005 0.748
+47 Oman x2006 0.752
+47 Oman x2007 0.764
+47 Oman x2008 0.782
+47 Oman x2009 0.789
+47 Oman x2010 0.793
+47 Oman x2011 0.795
+47 Oman x2012 0.804
+47 Oman x2013 0.811
+47 Oman x2014 0.815
+47 Oman x2015 0.827
+47 Oman x2016 0.834
+47 Oman x2017 0.833
+47 Oman x2018 0.834
+47 Oman x2019 0.834
+152 Pakistan x1990 0.404
+152 Pakistan x1991 0.409
+152 Pakistan x1992 0.415
+152 Pakistan x1993 0.418
+152 Pakistan x1994 0.423
+152 Pakistan x1995 0.428
+152 Pakistan x1996 0.433
+152 Pakistan x1997 0.436
+152 Pakistan x1998 0.44
+152 Pakistan x1999 0.445
+152 Pakistan x2000 0.449
+152 Pakistan x2001 0.456
+152 Pakistan x2002 0.464
+152 Pakistan x2003 0.472
+152 Pakistan x2004 0.486
+152 Pakistan x2005 0.499
+152 Pakistan x2006 0.503
+152 Pakistan x2007 0.511
+152 Pakistan x2008 0.513
+152 Pakistan x2009 0.52
+152 Pakistan x2010 0.524
+152 Pakistan x2011 0.528
+152 Pakistan x2012 0.533
+152 Pakistan x2013 0.537
+152 Pakistan x2014 0.546
+152 Pakistan x2015 0.55
+152 Pakistan x2016 0.556
+152 Pakistan x2017 0.558
+152 Pakistan x2018 0.56
+152 Pakistan x2019 0.56
+55 Palau x2000 0.736
+55 Palau x2001 0.741
+55 Palau x2002 0.745
+55 Palau x2003 0.747
+55 Palau x2004 0.752
+55 Palau x2005 0.759
+55 Palau x2006 0.761
+55 Palau x2007 0.766
+55 Palau x2008 0.767
+55 Palau x2009 0.772
+55 Palau x2010 0.776
+55 Palau x2011 0.783
+55 Palau x2012 0.787
+55 Palau x2013 0.811
+55 Palau x2014 0.809
+55 Palau x2015 0.803
+55 Palau x2016 0.808
+55 Palau x2017 0.811
+55 Palau x2018 0.814
+55 Palau x2019 0.814
+119 Palestine, State of x2004 0.638
+119 Palestine, State of x2005 0.646
+119 Palestine, State of x2006 0.647
+119 Palestine, State of x2007 0.657
+119 Palestine, State of x2008 0.661
+119 Palestine, State of x2009 0.666
+119 Palestine, State of x2010 0.671
+119 Palestine, State of x2011 0.679
+119 Palestine, State of x2012 0.684
+119 Palestine, State of x2013 0.681
+119 Palestine, State of x2014 0.682
+119 Palestine, State of x2015 0.685
+119 Palestine, State of x2016 0.687
+119 Palestine, State of x2017 0.689
+119 Palestine, State of x2018 0.69
+119 Palestine, State of x2019 0.69
+67 Panama x1990 0.659
+67 Panama x1991 0.665
+67 Panama x1992 0.673
+67 Panama x1993 0.68
+67 Panama x1994 0.684
+67 Panama x1995 0.688
+67 Panama x1996 0.694
+67 Panama x1997 0.7
+67 Panama x1998 0.708
+67 Panama x1999 0.713
+67 Panama x2000 0.719
+67 Panama x2001 0.722
+67 Panama x2002 0.728
+67 Panama x2003 0.73
+67 Panama x2004 0.735
+67 Panama x2005 0.739
+67 Panama x2006 0.744
+67 Panama x2007 0.751
+67 Panama x2008 0.755
+67 Panama x2009 0.756
+67 Panama x2010 0.758
+67 Panama x2011 0.764
+67 Panama x2012 0.77
+67 Panama x2013 0.775
+67 Panama x2014 0.779
+67 Panama x2015 0.782
+67 Panama x2016 0.789
+67 Panama x2017 0.793
+67 Panama x2018 0.795
+67 Panama x2019 0.795
+155 Papua New Guinea x1990 0.377
+155 Papua New Guinea x1991 0.386
+155 Papua New Guinea x1992 0.393
+155 Papua New Guinea x1993 0.404
+155 Papua New Guinea x1994 0.405
+155 Papua New Guinea x1995 0.414
+155 Papua New Guinea x1996 0.421
+155 Papua New Guinea x1997 0.425
+155 Papua New Guinea x1998 0.428
+155 Papua New Guinea x1999 0.431
+155 Papua New Guinea x2000 0.436
+155 Papua New Guinea x2001 0.441
+155 Papua New Guinea x2002 0.446
+155 Papua New Guinea x2003 0.45
+155 Papua New Guinea x2004 0.459
+155 Papua New Guinea x2005 0.468
+155 Papua New Guinea x2006 0.473
+155 Papua New Guinea x2007 0.486
+155 Papua New Guinea x2008 0.49
+155 Papua New Guinea x2009 0.5
+155 Papua New Guinea x2010 0.51
+155 Papua New Guinea x2011 0.517
+155 Papua New Guinea x2012 0.508
+155 Papua New Guinea x2013 0.521
+155 Papua New Guinea x2014 0.531
+155 Papua New Guinea x2015 0.539
+155 Papua New Guinea x2016 0.541
+155 Papua New Guinea x2017 0.543
+155 Papua New Guinea x2018 0.543
+155 Papua New Guinea x2019 0.543
+98 Paraguay x1990 0.588
+98 Paraguay x1991 0.593
+98 Paraguay x1992 0.597
+98 Paraguay x1993 0.607
+98 Paraguay x1994 0.615
+98 Paraguay x1995 0.622
+98 Paraguay x1996 0.629
+98 Paraguay x1997 0.633
+98 Paraguay x1998 0.638
+98 Paraguay x1999 0.641
+98 Paraguay x2000 0.64
+98 Paraguay x2001 0.648
+98 Paraguay x2002 0.658
+98 Paraguay x2003 0.657
+98 Paraguay x2004 0.664
+98 Paraguay x2005 0.667
+98 Paraguay x2006 0.666
+98 Paraguay x2007 0.671
+98 Paraguay x2008 0.68
+98 Paraguay x2009 0.678
+98 Paraguay x2010 0.692
+98 Paraguay x2011 0.697
+98 Paraguay x2012 0.697
+98 Paraguay x2013 0.709
+98 Paraguay x2014 0.712
+98 Paraguay x2015 0.718
+98 Paraguay x2016 0.718
+98 Paraguay x2017 0.722
+98 Paraguay x2018 0.724
+98 Paraguay x2019 0.724
+82 Peru x1990 0.613
+82 Peru x1991 0.619
+82 Peru x1992 0.62
+82 Peru x1993 0.625
+82 Peru x1994 0.636
+82 Peru x1995 0.646
+82 Peru x1996 0.651
+82 Peru x1997 0.657
+82 Peru x1998 0.667
+82 Peru x1999 0.677
+82 Peru x2000 0.679
+82 Peru x2001 0.688
+82 Peru x2002 0.688
+82 Peru x2003 0.687
+82 Peru x2004 0.694
+82 Peru x2005 0.7
+82 Peru x2006 0.697
+82 Peru x2007 0.705
+82 Peru x2008 0.715
+82 Peru x2009 0.718
+82 Peru x2010 0.721
+82 Peru x2011 0.734
+82 Peru x2012 0.734
+82 Peru x2013 0.742
+82 Peru x2014 0.752
+82 Peru x2015 0.75
+82 Peru x2016 0.755
+82 Peru x2017 0.756
+82 Peru x2018 0.759
+82 Peru x2019 0.759
+106 Philippines x1990 0.59
+106 Philippines x1991 0.593
+106 Philippines x1992 0.596
+106 Philippines x1993 0.599
+106 Philippines x1994 0.603
+106 Philippines x1995 0.607
+106 Philippines x1996 0.615
+106 Philippines x1997 0.619
+106 Philippines x1998 0.623
+106 Philippines x1999 0.627
+106 Philippines x2000 0.631
+106 Philippines x2001 0.634
+106 Philippines x2002 0.639
+106 Philippines x2003 0.643
+106 Philippines x2004 0.653
+106 Philippines x2005 0.656
+106 Philippines x2006 0.657
+106 Philippines x2007 0.663
+106 Philippines x2008 0.667
+106 Philippines x2009 0.666
+106 Philippines x2010 0.672
+106 Philippines x2011 0.677
+106 Philippines x2012 0.684
+106 Philippines x2013 0.692
+106 Philippines x2014 0.697
+106 Philippines x2015 0.702
+106 Philippines x2016 0.704
+106 Philippines x2017 0.709
+106 Philippines x2018 0.712
+106 Philippines x2019 0.712
+32 Poland x1990 0.712
+32 Poland x1991 0.711
+32 Poland x1992 0.714
+32 Poland x1993 0.725
+32 Poland x1994 0.734
+32 Poland x1995 0.74
+32 Poland x1996 0.748
+32 Poland x1997 0.759
+32 Poland x1998 0.769
+32 Poland x1999 0.778
+32 Poland x2000 0.785
+32 Poland x2001 0.791
+32 Poland x2002 0.799
+32 Poland x2003 0.804
+32 Poland x2004 0.802
+32 Poland x2005 0.808
+32 Poland x2006 0.813
+32 Poland x2007 0.819
+32 Poland x2008 0.824
+32 Poland x2009 0.828
+32 Poland x2010 0.835
+32 Poland x2011 0.84
+32 Poland x2012 0.836
+32 Poland x2013 0.851
+32 Poland x2014 0.853
+32 Poland x2015 0.858
+32 Poland x2016 0.864
+32 Poland x2017 0.868
+32 Poland x2018 0.872
+32 Poland x2019 0.872
+40 Portugal x1990 0.711
+40 Portugal x1991 0.72
+40 Portugal x1992 0.732
+40 Portugal x1993 0.746
+40 Portugal x1994 0.753
+40 Portugal x1995 0.76
+40 Portugal x1996 0.767
+40 Portugal x1997 0.773
+40 Portugal x1998 0.78
+40 Portugal x1999 0.779
+40 Portugal x2000 0.785
+40 Portugal x2001 0.79
+40 Portugal x2002 0.792
+40 Portugal x2003 0.796
+40 Portugal x2004 0.797
+40 Portugal x2005 0.8
+40 Portugal x2006 0.803
+40 Portugal x2007 0.81
+40 Portugal x2008 0.814
+40 Portugal x2009 0.817
+40 Portugal x2010 0.822
+40 Portugal x2011 0.827
+40 Portugal x2012 0.829
+40 Portugal x2013 0.837
+40 Portugal x2014 0.84
+40 Portugal x2015 0.843
+40 Portugal x2016 0.846
+40 Portugal x2017 0.848
+40 Portugal x2018 0.85
+40 Portugal x2019 0.85
+41 Qatar x1990 0.757
+41 Qatar x1991 0.754
+41 Qatar x1992 0.757
+41 Qatar x1993 0.768
+41 Qatar x1994 0.78
+41 Qatar x1995 0.789
+41 Qatar x1996 0.801
+41 Qatar x1997 0.806
+41 Qatar x1998 0.81
+41 Qatar x1999 0.814
+41 Qatar x2000 0.816
+41 Qatar x2001 0.817
+41 Qatar x2002 0.822
+41 Qatar x2003 0.83
+41 Qatar x2004 0.832
+41 Qatar x2005 0.838
+41 Qatar x2006 0.835
+41 Qatar x2007 0.838
+41 Qatar x2008 0.843
+41 Qatar x2009 0.841
+41 Qatar x2010 0.834
+41 Qatar x2011 0.845
+41 Qatar x2012 0.85
+41 Qatar x2013 0.857
+41 Qatar x2014 0.854
+41 Qatar x2015 0.851
+41 Qatar x2016 0.847
+41 Qatar x2017 0.848
+41 Qatar x2018 0.848
+41 Qatar x2019 0.848
+52 Romania x1990 0.701
+52 Romania x1991 0.686
+52 Romania x1992 0.679
+52 Romania x1993 0.678
+52 Romania x1994 0.681
+52 Romania x1995 0.687
+52 Romania x1996 0.695
+52 Romania x1997 0.695
+52 Romania x1998 0.697
+52 Romania x1999 0.703
+52 Romania x2000 0.709
+52 Romania x2001 0.715
+52 Romania x2002 0.724
+52 Romania x2003 0.732
+52 Romania x2004 0.745
+52 Romania x2005 0.755
+52 Romania x2006 0.766
+52 Romania x2007 0.78
+52 Romania x2008 0.795
+52 Romania x2009 0.798
+52 Romania x2010 0.797
+52 Romania x2011 0.798
+52 Romania x2012 0.796
+52 Romania x2013 0.8
+52 Romania x2014 0.803
+52 Romania x2015 0.806
+52 Romania x2016 0.808
+52 Romania x2017 0.813
+52 Romania x2018 0.816
+52 Romania x2019 0.816
+49 Russia x1990 0.734
+49 Russia x1991 0.729
+49 Russia x1992 0.719
+49 Russia x1993 0.711
+49 Russia x1994 0.702
+49 Russia x1995 0.701
+49 Russia x1996 0.702
+49 Russia x1997 0.704
+49 Russia x1998 0.703
+49 Russia x1999 0.71
+49 Russia x2000 0.721
+49 Russia x2001 0.727
+49 Russia x2002 0.733
+49 Russia x2003 0.74
+49 Russia x2004 0.746
+49 Russia x2005 0.752
+49 Russia x2006 0.759
+49 Russia x2007 0.767
+49 Russia x2008 0.774
+49 Russia x2009 0.771
+49 Russia x2010 0.78
+49 Russia x2011 0.789
+49 Russia x2012 0.797
+49 Russia x2013 0.803
+49 Russia x2014 0.807
+49 Russia x2015 0.813
+49 Russia x2016 0.817
+49 Russia x2017 0.822
+49 Russia x2018 0.824
+49 Russia x2019 0.824
+157 Rwanda x1990 0.245
+157 Rwanda x1991 0.218
+157 Rwanda x1992 0.2
+157 Rwanda x1993 0.195
+157 Rwanda x1994 0.189
+157 Rwanda x1995 0.228
+157 Rwanda x1996 0.26
+157 Rwanda x1997 0.288
+157 Rwanda x1998 0.303
+157 Rwanda x1999 0.322
+157 Rwanda x2000 0.337
+157 Rwanda x2001 0.346
+157 Rwanda x2002 0.361
+157 Rwanda x2003 0.374
+157 Rwanda x2004 0.391
+157 Rwanda x2005 0.409
+157 Rwanda x2006 0.43
+157 Rwanda x2007 0.446
+157 Rwanda x2008 0.456
+157 Rwanda x2009 0.472
+157 Rwanda x2010 0.488
+157 Rwanda x2011 0.496
+157 Rwanda x2012 0.504
+157 Rwanda x2013 0.506
+157 Rwanda x2014 0.513
+157 Rwanda x2015 0.515
+157 Rwanda x2016 0.525
+157 Rwanda x2017 0.529
+157 Rwanda x2018 0.536
+157 Rwanda x2019 0.536
+73 Saint Kitts and Nevis x2005 0.713
+73 Saint Kitts and Nevis x2006 0.72
+73 Saint Kitts and Nevis x2007 0.725
+73 Saint Kitts and Nevis x2008 0.74
+73 Saint Kitts and Nevis x2009 0.742
+73 Saint Kitts and Nevis x2010 0.747
+73 Saint Kitts and Nevis x2011 0.751
+73 Saint Kitts and Nevis x2012 0.748
+73 Saint Kitts and Nevis x2013 0.767
+73 Saint Kitts and Nevis x2014 0.768
+73 Saint Kitts and Nevis x2015 0.769
+73 Saint Kitts and Nevis x2016 0.772
+73 Saint Kitts and Nevis x2017 0.774
+73 Saint Kitts and Nevis x2018 0.777
+73 Saint Kitts and Nevis x2019 0.777
+89 Saint Lucia x2000 0.694
+89 Saint Lucia x2001 0.691
+89 Saint Lucia x2002 0.692
+89 Saint Lucia x2003 0.694
+89 Saint Lucia x2004 0.694
+89 Saint Lucia x2005 0.698
+89 Saint Lucia x2006 0.712
+89 Saint Lucia x2007 0.712
+89 Saint Lucia x2008 0.723
+89 Saint Lucia x2009 0.726
+89 Saint Lucia x2010 0.73
+89 Saint Lucia x2011 0.736
+89 Saint Lucia x2012 0.731
+89 Saint Lucia x2013 0.726
+89 Saint Lucia x2014 0.728
+89 Saint Lucia x2015 0.736
+89 Saint Lucia x2016 0.744
+89 Saint Lucia x2017 0.744
+89 Saint Lucia x2018 0.745
+89 Saint Lucia x2019 0.745
+94 Saint Vincent and the Grenadines x2000 0.674
+94 Saint Vincent and the Grenadines x2001 0.678
+94 Saint Vincent and the Grenadines x2002 0.683
+94 Saint Vincent and the Grenadines x2003 0.69
+94 Saint Vincent and the Grenadines x2004 0.693
+94 Saint Vincent and the Grenadines x2005 0.698
+94 Saint Vincent and the Grenadines x2006 0.704
+94 Saint Vincent and the Grenadines x2007 0.705
+94 Saint Vincent and the Grenadines x2008 0.713
+94 Saint Vincent and the Grenadines x2009 0.713
+94 Saint Vincent and the Grenadines x2010 0.711
+94 Saint Vincent and the Grenadines x2011 0.713
+94 Saint Vincent and the Grenadines x2012 0.713
+94 Saint Vincent and the Grenadines x2013 0.714
+94 Saint Vincent and the Grenadines x2014 0.715
+94 Saint Vincent and the Grenadines x2015 0.721
+94 Saint Vincent and the Grenadines x2016 0.725
+94 Saint Vincent and the Grenadines x2017 0.726
+94 Saint Vincent and the Grenadines x2018 0.728
+94 Saint Vincent and the Grenadines x2019 0.728
+111 Samoa x1990 0.621
+111 Samoa x1991 0.622
+111 Samoa x1992 0.622
+111 Samoa x1993 0.627
+111 Samoa x1994 0.606
+111 Samoa x1995 0.611
+111 Samoa x1996 0.619
+111 Samoa x1997 0.621
+111 Samoa x1998 0.628
+111 Samoa x1999 0.633
+111 Samoa x2000 0.638
+111 Samoa x2001 0.645
+111 Samoa x2002 0.653
+111 Samoa x2003 0.658
+111 Samoa x2004 0.666
+111 Samoa x2005 0.67
+111 Samoa x2006 0.673
+111 Samoa x2007 0.679
+111 Samoa x2008 0.681
+111 Samoa x2009 0.683
+111 Samoa x2010 0.69
+111 Samoa x2011 0.695
+111 Samoa x2012 0.696
+111 Samoa x2013 0.696
+111 Samoa x2014 0.698
+111 Samoa x2015 0.699
+111 Samoa x2016 0.704
+111 Samoa x2017 0.706
+111 Samoa x2018 0.707
+111 Samoa x2019 0.707
+137 Sao Tome and Principe x1990 0.437
+137 Sao Tome and Principe x1991 0.438
+137 Sao Tome and Principe x1992 0.441
+137 Sao Tome and Principe x1993 0.444
+137 Sao Tome and Principe x1994 0.449
+137 Sao Tome and Principe x1995 0.452
+137 Sao Tome and Principe x1996 0.458
+137 Sao Tome and Principe x1997 0.462
+137 Sao Tome and Principe x1998 0.467
+137 Sao Tome and Principe x1999 0.474
+137 Sao Tome and Principe x2000 0.48
+137 Sao Tome and Principe x2001 0.489
+137 Sao Tome and Principe x2002 0.494
+137 Sao Tome and Principe x2003 0.502
+137 Sao Tome and Principe x2004 0.509
+137 Sao Tome and Principe x2005 0.517
+137 Sao Tome and Principe x2006 0.526
+137 Sao Tome and Principe x2007 0.531
+137 Sao Tome and Principe x2008 0.532
+137 Sao Tome and Principe x2009 0.541
+137 Sao Tome and Principe x2010 0.546
+137 Sao Tome and Principe x2011 0.553
+137 Sao Tome and Principe x2012 0.558
+137 Sao Tome and Principe x2013 0.568
+137 Sao Tome and Principe x2014 0.577
+137 Sao Tome and Principe x2015 0.59
+137 Sao Tome and Principe x2016 0.593
+137 Sao Tome and Principe x2017 0.603
+137 Sao Tome and Principe x2018 0.609
+137 Sao Tome and Principe x2019 0.609
+36 Saudi Arabia x1990 0.698
+36 Saudi Arabia x1991 0.706
+36 Saudi Arabia x1992 0.711
+36 Saudi Arabia x1993 0.715
+36 Saudi Arabia x1994 0.719
+36 Saudi Arabia x1995 0.723
+36 Saudi Arabia x1996 0.728
+36 Saudi Arabia x1997 0.732
+36 Saudi Arabia x1998 0.737
+36 Saudi Arabia x1999 0.739
+36 Saudi Arabia x2000 0.744
+36 Saudi Arabia x2001 0.747
+36 Saudi Arabia x2002 0.749
+36 Saudi Arabia x2003 0.756
+36 Saudi Arabia x2004 0.765
+36 Saudi Arabia x2005 0.771
+36 Saudi Arabia x2006 0.778
+36 Saudi Arabia x2007 0.784
+36 Saudi Arabia x2008 0.793
+36 Saudi Arabia x2009 0.797
+36 Saudi Arabia x2010 0.81
+36 Saudi Arabia x2011 0.824
+36 Saudi Arabia x2012 0.837
+36 Saudi Arabia x2013 0.846
+36 Saudi Arabia x2014 0.853
+36 Saudi Arabia x2015 0.857
+36 Saudi Arabia x2016 0.857
+36 Saudi Arabia x2017 0.856
+36 Saudi Arabia x2018 0.857
+36 Saudi Arabia x2019 0.857
+166 Senegal x1990 0.377
+166 Senegal x1991 0.377
+166 Senegal x1992 0.378
+166 Senegal x1993 0.377
+166 Senegal x1994 0.377
+166 Senegal x1995 0.378
+166 Senegal x1996 0.379
+166 Senegal x1997 0.38
+166 Senegal x1998 0.383
+166 Senegal x1999 0.385
+166 Senegal x2000 0.39
+166 Senegal x2001 0.406
+166 Senegal x2002 0.41
+166 Senegal x2003 0.418
+166 Senegal x2004 0.426
+166 Senegal x2005 0.434
+166 Senegal x2006 0.439
+166 Senegal x2007 0.448
+166 Senegal x2008 0.458
+166 Senegal x2009 0.462
+166 Senegal x2010 0.468
+166 Senegal x2011 0.479
+166 Senegal x2012 0.489
+166 Senegal x2013 0.494
+166 Senegal x2014 0.501
+166 Senegal x2015 0.504
+166 Senegal x2016 0.506
+166 Senegal x2017 0.51
+166 Senegal x2018 0.514
+166 Senegal x2019 0.514
+63 Serbia x1990 0.706
+63 Serbia x1991 0.703
+63 Serbia x1992 0.688
+63 Serbia x1993 0.685
+63 Serbia x1994 0.689
+63 Serbia x1995 0.695
+63 Serbia x1996 0.698
+63 Serbia x1997 0.705
+63 Serbia x1998 0.708
+63 Serbia x1999 0.703
+63 Serbia x2000 0.71
+63 Serbia x2001 0.716
+63 Serbia x2002 0.72
+63 Serbia x2003 0.726
+63 Serbia x2004 0.734
+63 Serbia x2005 0.742
+63 Serbia x2006 0.75
+63 Serbia x2007 0.754
+63 Serbia x2008 0.76
+63 Serbia x2009 0.762
+63 Serbia x2010 0.762
+63 Serbia x2011 0.772
+63 Serbia x2012 0.772
+63 Serbia x2013 0.775
+63 Serbia x2014 0.78
+63 Serbia x2015 0.785
+63 Serbia x2016 0.791
+63 Serbia x2017 0.794
+63 Serbia x2018 0.799
+63 Serbia x2019 0.799
+62 Seychelles x2000 0.712
+62 Seychelles x2001 0.708
+62 Seychelles x2002 0.709
+62 Seychelles x2003 0.713
+62 Seychelles x2004 0.715
+62 Seychelles x2005 0.731
+62 Seychelles x2006 0.72
+62 Seychelles x2007 0.744
+62 Seychelles x2008 0.748
+62 Seychelles x2009 0.754
+62 Seychelles x2010 0.762
+62 Seychelles x2011 0.755
+62 Seychelles x2012 0.777
+62 Seychelles x2013 0.782
+62 Seychelles x2014 0.796
+62 Seychelles x2015 0.801
+62 Seychelles x2016 0.801
+62 Seychelles x2017 0.8
+62 Seychelles x2018 0.801
+62 Seychelles x2019 0.801
+181 Sierra Leone x1990 0.27
+181 Sierra Leone x1991 0.267
+181 Sierra Leone x1992 0.26
+181 Sierra Leone x1993 0.266
+181 Sierra Leone x1994 0.265
+181 Sierra Leone x1995 0.268
+181 Sierra Leone x1996 0.275
+181 Sierra Leone x1997 0.278
+181 Sierra Leone x1998 0.283
+181 Sierra Leone x1999 0.289
+181 Sierra Leone x2000 0.298
+181 Sierra Leone x2001 0.302
+181 Sierra Leone x2002 0.319
+181 Sierra Leone x2003 0.329
+181 Sierra Leone x2004 0.338
+181 Sierra Leone x2005 0.346
+181 Sierra Leone x2006 0.354
+181 Sierra Leone x2007 0.368
+181 Sierra Leone x2008 0.378
+181 Sierra Leone x2009 0.386
+181 Sierra Leone x2010 0.391
+181 Sierra Leone x2011 0.398
+181 Sierra Leone x2012 0.413
+181 Sierra Leone x2013 0.426
+181 Sierra Leone x2014 0.43
+181 Sierra Leone x2015 0.422
+181 Sierra Leone x2016 0.423
+181 Sierra Leone x2017 0.435
+181 Sierra Leone x2018 0.438
+181 Sierra Leone x2019 0.438
+9 Singapore x1990 0.718
+9 Singapore x1991 0.728
+9 Singapore x1992 0.739
+9 Singapore x1993 0.75
+9 Singapore x1994 0.762
+9 Singapore x1995 0.771
+9 Singapore x1996 0.78
+9 Singapore x1997 0.791
+9 Singapore x1998 0.796
+9 Singapore x1999 0.807
+9 Singapore x2000 0.818
+9 Singapore x2001 0.822
+9 Singapore x2002 0.83
+9 Singapore x2003 0.839
+9 Singapore x2004 0.846
+9 Singapore x2005 0.869
+9 Singapore x2006 0.872
+9 Singapore x2007 0.879
+9 Singapore x2008 0.884
+9 Singapore x2009 0.885
+9 Singapore x2010 0.909
+9 Singapore x2011 0.914
+9 Singapore x2012 0.92
+9 Singapore x2013 0.923
+9 Singapore x2014 0.928
+9 Singapore x2015 0.929
+9 Singapore x2016 0.933
+9 Singapore x2017 0.934
+9 Singapore x2018 0.935
+9 Singapore x2019 0.935
+36 Slovakia x1990 0.739
+36 Slovakia x1991 0.734
+36 Slovakia x1992 0.733
+36 Slovakia x1993 0.737
+36 Slovakia x1994 0.743
+36 Slovakia x1995 0.751
+36 Slovakia x1996 0.754
+36 Slovakia x1997 0.756
+36 Slovakia x1998 0.762
+36 Slovakia x1999 0.762
+36 Slovakia x2000 0.763
+36 Slovakia x2001 0.765
+36 Slovakia x2002 0.772
+36 Slovakia x2003 0.777
+36 Slovakia x2004 0.785
+36 Slovakia x2005 0.794
+36 Slovakia x2006 0.803
+36 Slovakia x2007 0.814
+36 Slovakia x2008 0.822
+36 Slovakia x2009 0.823
+36 Slovakia x2010 0.829
+36 Slovakia x2011 0.836
+36 Slovakia x2012 0.841
+36 Slovakia x2013 0.844
+36 Slovakia x2014 0.845
+36 Slovakia x2015 0.849
+36 Slovakia x2016 0.851
+36 Slovakia x2017 0.854
+36 Slovakia x2018 0.857
+36 Slovakia x2019 0.857
+24 Slovenia x1990 0.829
+24 Slovenia x1991 0.813
+24 Slovenia x1992 0.767
+24 Slovenia x1993 0.759
+24 Slovenia x1994 0.762
+24 Slovenia x1995 0.782
+24 Slovenia x1996 0.788
+24 Slovenia x1997 0.796
+24 Slovenia x1998 0.805
+24 Slovenia x1999 0.819
+24 Slovenia x2000 0.824
+24 Slovenia x2001 0.835
+24 Slovenia x2002 0.843
+24 Slovenia x2003 0.85
+24 Slovenia x2004 0.857
+24 Slovenia x2005 0.861
+24 Slovenia x2006 0.868
+24 Slovenia x2007 0.873
+24 Slovenia x2008 0.878
+24 Slovenia x2009 0.877
+24 Slovenia x2010 0.881
+24 Slovenia x2011 0.883
+24 Slovenia x2012 0.876
+24 Slovenia x2013 0.884
+24 Slovenia x2014 0.886
+24 Slovenia x2015 0.886
+24 Slovenia x2016 0.892
+24 Slovenia x2017 0.899
+24 Slovenia x2018 0.902
+24 Slovenia x2019 0.902
+153 Solomon Islands x1999 0.49
+153 Solomon Islands x2000 0.476
+153 Solomon Islands x2001 0.48
+153 Solomon Islands x2002 0.486
+153 Solomon Islands x2003 0.492
+153 Solomon Islands x2004 0.498
+153 Solomon Islands x2005 0.503
+153 Solomon Islands x2006 0.515
+153 Solomon Islands x2007 0.517
+153 Solomon Islands x2008 0.517
+153 Solomon Islands x2009 0.506
+153 Solomon Islands x2010 0.524
+153 Solomon Islands x2011 0.532
+153 Solomon Islands x2012 0.546
+153 Solomon Islands x2013 0.55
+153 Solomon Islands x2014 0.551
+153 Solomon Islands x2015 0.555
+153 Solomon Islands x2016 0.553
+153 Solomon Islands x2017 0.555
+153 Solomon Islands x2018 0.557
+153 Solomon Islands x2019 0.557
+113 South Africa x1990 0.625
+113 South Africa x1991 0.632
+113 South Africa x1992 0.64
+113 South Africa x1993 0.646
+113 South Africa x1994 0.648
+113 South Africa x1995 0.652
+113 South Africa x1996 0.649
+113 South Africa x1997 0.644
+113 South Africa x1998 0.638
+113 South Africa x1999 0.633
+113 South Africa x2000 0.629
+113 South Africa x2001 0.61
+113 South Africa x2002 0.618
+113 South Africa x2003 0.617
+113 South Africa x2004 0.618
+113 South Africa x2005 0.62
+113 South Africa x2006 0.624
+113 South Africa x2007 0.631
+113 South Africa x2008 0.644
+113 South Africa x2009 0.654
+113 South Africa x2010 0.662
+113 South Africa x2011 0.663
+113 South Africa x2012 0.673
+113 South Africa x2013 0.683
+113 South Africa x2014 0.691
+113 South Africa x2015 0.699
+113 South Africa x2016 0.702
+113 South Africa x2017 0.704
+113 South Africa x2018 0.705
+113 South Africa x2019 0.705
+186 South Sudan x2010 0.425
+186 South Sudan x2011 0.443
+186 South Sudan x2012 0.438
+186 South Sudan x2013 0.439
+186 South Sudan x2014 0.435
+186 South Sudan x2015 0.428
+186 South Sudan x2016 0.418
+186 South Sudan x2017 0.414
+186 South Sudan x2018 0.413
+186 South Sudan x2019 0.413
+25 Spain x1990 0.754
+25 Spain x1991 0.764
+25 Spain x1992 0.772
+25 Spain x1993 0.782
+25 Spain x1994 0.791
+25 Spain x1995 0.8
+25 Spain x1996 0.806
+25 Spain x1997 0.81
+25 Spain x1998 0.814
+25 Spain x1999 0.819
+25 Spain x2000 0.825
+25 Spain x2001 0.828
+25 Spain x2002 0.83
+25 Spain x2003 0.833
+25 Spain x2004 0.837
+25 Spain x2005 0.844
+25 Spain x2006 0.848
+25 Spain x2007 0.853
+25 Spain x2008 0.856
+25 Spain x2009 0.858
+25 Spain x2010 0.865
+25 Spain x2011 0.87
+25 Spain x2012 0.873
+25 Spain x2013 0.875
+25 Spain x2014 0.88
+25 Spain x2015 0.885
+25 Spain x2016 0.888
+25 Spain x2017 0.891
+25 Spain x2018 0.893
+25 Spain x2019 0.893
+71 Sri Lanka x1990 0.625
+71 Sri Lanka x1991 0.63
+71 Sri Lanka x1992 0.635
+71 Sri Lanka x1993 0.637
+71 Sri Lanka x1994 0.646
+71 Sri Lanka x1995 0.65
+71 Sri Lanka x1996 0.655
+71 Sri Lanka x1997 0.662
+71 Sri Lanka x1998 0.669
+71 Sri Lanka x1999 0.677
+71 Sri Lanka x2000 0.687
+71 Sri Lanka x2001 0.693
+71 Sri Lanka x2002 0.699
+71 Sri Lanka x2003 0.708
+71 Sri Lanka x2004 0.715
+71 Sri Lanka x2005 0.721
+71 Sri Lanka x2006 0.728
+71 Sri Lanka x2007 0.734
+71 Sri Lanka x2008 0.742
+71 Sri Lanka x2009 0.745
+71 Sri Lanka x2010 0.75
+71 Sri Lanka x2011 0.756
+71 Sri Lanka x2012 0.762
+71 Sri Lanka x2013 0.765
+71 Sri Lanka x2014 0.769
+71 Sri Lanka x2015 0.772
+71 Sri Lanka x2016 0.774
+71 Sri Lanka x2017 0.776
+71 Sri Lanka x2018 0.78
+71 Sri Lanka x2019 0.78
+168 Sudan x1990 0.332
+168 Sudan x1991 0.337
+168 Sudan x1992 0.345
+168 Sudan x1993 0.353
+168 Sudan x1994 0.359
+168 Sudan x1995 0.367
+168 Sudan x1996 0.375
+168 Sudan x1997 0.385
+168 Sudan x1998 0.391
+168 Sudan x1999 0.397
+168 Sudan x2000 0.403
+168 Sudan x2001 0.409
+168 Sudan x2002 0.415
+168 Sudan x2003 0.421
+168 Sudan x2004 0.43
+168 Sudan x2005 0.437
+168 Sudan x2006 0.447
+168 Sudan x2007 0.452
+168 Sudan x2008 0.464
+168 Sudan x2009 0.469
+168 Sudan x2010 0.471
+168 Sudan x2011 0.475
+168 Sudan x2012 0.485
+168 Sudan x2013 0.477
+168 Sudan x2014 0.496
+168 Sudan x2015 0.501
+168 Sudan x2016 0.505
+168 Sudan x2017 0.507
+168 Sudan x2018 0.508
+168 Sudan x2019 0.508
+98 Suriname x2004 0.671
+98 Suriname x2005 0.676
+98 Suriname x2006 0.682
+98 Suriname x2007 0.687
+98 Suriname x2008 0.692
+98 Suriname x2009 0.698
+98 Suriname x2010 0.701
+98 Suriname x2011 0.708
+98 Suriname x2012 0.72
+98 Suriname x2013 0.724
+98 Suriname x2014 0.726
+98 Suriname x2015 0.73
+98 Suriname x2016 0.726
+98 Suriname x2017 0.722
+98 Suriname x2018 0.724
+98 Suriname x2019 0.724
+8 Sweden x1990 0.816
+8 Sweden x1991 0.818
+8 Sweden x1992 0.821
+8 Sweden x1993 0.84
+8 Sweden x1994 0.849
+8 Sweden x1995 0.857
+8 Sweden x1996 0.864
+8 Sweden x1997 0.874
+8 Sweden x1998 0.888
+8 Sweden x1999 0.893
+8 Sweden x2000 0.897
+8 Sweden x2001 0.9
+8 Sweden x2002 0.903
+8 Sweden x2003 0.908
+8 Sweden x2004 0.896
+8 Sweden x2005 0.899
+8 Sweden x2006 0.902
+8 Sweden x2007 0.905
+8 Sweden x2008 0.901
+8 Sweden x2009 0.899
+8 Sweden x2010 0.906
+8 Sweden x2011 0.906
+8 Sweden x2012 0.908
+8 Sweden x2013 0.927
+8 Sweden x2014 0.929
+8 Sweden x2015 0.932
+8 Sweden x2016 0.934
+8 Sweden x2017 0.935
+8 Sweden x2018 0.937
+8 Sweden x2019 0.937
+2 Switzerland x1990 0.832
+2 Switzerland x1991 0.834
+2 Switzerland x1992 0.836
+2 Switzerland x1993 0.841
+2 Switzerland x1994 0.844
+2 Switzerland x1995 0.848
+2 Switzerland x1996 0.854
+2 Switzerland x1997 0.864
+2 Switzerland x1998 0.874
+2 Switzerland x1999 0.881
+2 Switzerland x2000 0.889
+2 Switzerland x2001 0.891
+2 Switzerland x2002 0.891
+2 Switzerland x2003 0.896
+2 Switzerland x2004 0.901
+2 Switzerland x2005 0.906
+2 Switzerland x2006 0.912
+2 Switzerland x2007 0.915
+2 Switzerland x2008 0.917
+2 Switzerland x2009 0.927
+2 Switzerland x2010 0.932
+2 Switzerland x2011 0.932
+2 Switzerland x2012 0.935
+2 Switzerland x2013 0.938
+2 Switzerland x2014 0.939
+2 Switzerland x2015 0.943
+2 Switzerland x2016 0.943
+2 Switzerland x2017 0.943
+2 Switzerland x2018 0.946
+2 Switzerland x2019 0.946
+154 Syrian Arab Republic x1990 0.558
+154 Syrian Arab Republic x1991 0.562
+154 Syrian Arab Republic x1992 0.568
+154 Syrian Arab Republic x1993 0.571
+154 Syrian Arab Republic x1994 0.576
+154 Syrian Arab Republic x1995 0.579
+154 Syrian Arab Republic x1996 0.583
+154 Syrian Arab Republic x1997 0.587
+154 Syrian Arab Republic x1998 0.59
+154 Syrian Arab Republic x1999 0.589
+154 Syrian Arab Republic x2000 0.59
+154 Syrian Arab Republic x2001 0.597
+154 Syrian Arab Republic x2002 0.6
+154 Syrian Arab Republic x2003 0.61
+154 Syrian Arab Republic x2004 0.623
+154 Syrian Arab Republic x2005 0.635
+154 Syrian Arab Republic x2006 0.643
+154 Syrian Arab Republic x2007 0.649
+154 Syrian Arab Republic x2008 0.646
+154 Syrian Arab Republic x2009 0.648
+154 Syrian Arab Republic x2010 0.644
+154 Syrian Arab Republic x2011 0.642
+154 Syrian Arab Republic x2012 0.631
+154 Syrian Arab Republic x2013 0.572
+154 Syrian Arab Republic x2014 0.551
+154 Syrian Arab Republic x2015 0.54
+154 Syrian Arab Republic x2016 0.539
+154 Syrian Arab Republic x2017 0.544
+154 Syrian Arab Republic x2018 0.549
+154 Syrian Arab Republic x2019 0.549
+125 Tajikistan x1990 0.603
+125 Tajikistan x1991 0.598
+125 Tajikistan x1992 0.577
+125 Tajikistan x1993 0.56
+125 Tajikistan x1994 0.527
+125 Tajikistan x1995 0.532
+125 Tajikistan x1996 0.517
+125 Tajikistan x1997 0.522
+125 Tajikistan x1998 0.526
+125 Tajikistan x1999 0.53
+125 Tajikistan x2000 0.538
+125 Tajikistan x2001 0.548
+125 Tajikistan x2002 0.559
+125 Tajikistan x2003 0.571
+125 Tajikistan x2004 0.582
+125 Tajikistan x2005 0.59
+125 Tajikistan x2006 0.596
+125 Tajikistan x2007 0.602
+125 Tajikistan x2008 0.616
+125 Tajikistan x2009 0.619
+125 Tajikistan x2010 0.63
+125 Tajikistan x2011 0.634
+125 Tajikistan x2012 0.639
+125 Tajikistan x2013 0.643
+125 Tajikistan x2014 0.642
+125 Tajikistan x2015 0.642
+125 Tajikistan x2016 0.647
+125 Tajikistan x2017 0.651
+125 Tajikistan x2018 0.656
+125 Tajikistan x2019 0.656
+159 Tanzania (United Republic of) x1990 0.373
+159 Tanzania (United Republic of) x1991 0.374
+159 Tanzania (United Republic of) x1992 0.372
+159 Tanzania (United Republic of) x1993 0.372
+159 Tanzania (United Republic of) x1994 0.371
+159 Tanzania (United Republic of) x1995 0.372
+159 Tanzania (United Republic of) x1996 0.374
+159 Tanzania (United Republic of) x1997 0.375
+159 Tanzania (United Republic of) x1998 0.382
+159 Tanzania (United Republic of) x1999 0.388
+159 Tanzania (United Republic of) x2000 0.395
+159 Tanzania (United Republic of) x2001 0.402
+159 Tanzania (United Republic of) x2002 0.412
+159 Tanzania (United Republic of) x2003 0.421
+159 Tanzania (United Republic of) x2004 0.431
+159 Tanzania (United Republic of) x2005 0.442
+159 Tanzania (United Republic of) x2006 0.452
+159 Tanzania (United Republic of) x2007 0.461
+159 Tanzania (United Republic of) x2008 0.47
+159 Tanzania (United Republic of) x2009 0.479
+159 Tanzania (United Republic of) x2010 0.487
+159 Tanzania (United Republic of) x2011 0.492
+159 Tanzania (United Republic of) x2012 0.501
+159 Tanzania (United Republic of) x2013 0.503
+159 Tanzania (United Republic of) x2014 0.509
+159 Tanzania (United Republic of) x2015 0.519
+159 Tanzania (United Republic of) x2016 0.518
+159 Tanzania (United Republic of) x2017 0.522
+159 Tanzania (United Republic of) x2018 0.528
+159 Tanzania (United Republic of) x2019 0.528
+77 Thailand x1990 0.574
+77 Thailand x1991 0.583
+77 Thailand x1992 0.589
+77 Thailand x1993 0.597
+77 Thailand x1994 0.604
+77 Thailand x1995 0.611
+77 Thailand x1996 0.619
+77 Thailand x1997 0.625
+77 Thailand x1998 0.63
+77 Thailand x1999 0.64
+77 Thailand x2000 0.649
+77 Thailand x2001 0.657
+77 Thailand x2002 0.665
+77 Thailand x2003 0.674
+77 Thailand x2004 0.683
+77 Thailand x2005 0.693
+77 Thailand x2006 0.694
+77 Thailand x2007 0.71
+77 Thailand x2008 0.714
+77 Thailand x2009 0.718
+77 Thailand x2010 0.721
+77 Thailand x2011 0.729
+77 Thailand x2012 0.733
+77 Thailand x2013 0.731
+77 Thailand x2014 0.739
+77 Thailand x2015 0.746
+77 Thailand x2016 0.753
+77 Thailand x2017 0.762
+77 Thailand x2018 0.765
+77 Thailand x2019 0.765
+131 Timor-Leste x2000 0.505
+131 Timor-Leste x2001 0.512
+131 Timor-Leste x2002 0.522
+131 Timor-Leste x2003 0.525
+131 Timor-Leste x2004 0.519
+131 Timor-Leste x2005 0.496
+131 Timor-Leste x2006 0.537
+131 Timor-Leste x2007 0.582
+131 Timor-Leste x2008 0.599
+131 Timor-Leste x2009 0.611
+131 Timor-Leste x2010 0.62
+131 Timor-Leste x2011 0.627
+131 Timor-Leste x2012 0.601
+131 Timor-Leste x2013 0.613
+131 Timor-Leste x2014 0.608
+131 Timor-Leste x2015 0.628
+131 Timor-Leste x2016 0.628
+131 Timor-Leste x2017 0.624
+131 Timor-Leste x2018 0.626
+131 Timor-Leste x2019 0.626
+167 Togo x1990 0.405
+167 Togo x1991 0.408
+167 Togo x1992 0.4
+167 Togo x1993 0.391
+167 Togo x1994 0.397
+167 Togo x1995 0.41
+167 Togo x1996 0.418
+167 Togo x1997 0.425
+167 Togo x1998 0.424
+167 Togo x1999 0.425
+167 Togo x2000 0.426
+167 Togo x2001 0.427
+167 Togo x2002 0.428
+167 Togo x2003 0.432
+167 Togo x2004 0.435
+167 Togo x2005 0.437
+167 Togo x2006 0.444
+167 Togo x2007 0.441
+167 Togo x2008 0.449
+167 Togo x2009 0.458
+167 Togo x2010 0.468
+167 Togo x2011 0.48
+167 Togo x2012 0.484
+167 Togo x2013 0.49
+167 Togo x2014 0.495
+167 Togo x2015 0.502
+167 Togo x2016 0.506
+167 Togo x2017 0.51
+167 Togo x2018 0.513
+167 Togo x2019 0.513
+105 Tonga x1990 0.645
+105 Tonga x1991 0.651
+105 Tonga x1992 0.653
+105 Tonga x1993 0.657
+105 Tonga x1994 0.664
+105 Tonga x1995 0.667
+105 Tonga x1996 0.667
+105 Tonga x1997 0.667
+105 Tonga x1998 0.67
+105 Tonga x1999 0.67
+105 Tonga x2000 0.666
+105 Tonga x2001 0.67
+105 Tonga x2002 0.676
+105 Tonga x2003 0.685
+105 Tonga x2004 0.674
+105 Tonga x2005 0.674
+105 Tonga x2006 0.675
+105 Tonga x2007 0.678
+105 Tonga x2008 0.681
+105 Tonga x2009 0.686
+105 Tonga x2010 0.692
+105 Tonga x2011 0.696
+105 Tonga x2012 0.7
+105 Tonga x2013 0.699
+105 Tonga x2014 0.699
+105 Tonga x2015 0.714
+105 Tonga x2016 0.715
+105 Tonga x2017 0.717
+105 Tonga x2018 0.717
+105 Tonga x2019 0.717
+63 Trinidad and Tobago x1990 0.667
+63 Trinidad and Tobago x1991 0.668
+63 Trinidad and Tobago x1992 0.674
+63 Trinidad and Tobago x1993 0.676
+63 Trinidad and Tobago x1994 0.68
+63 Trinidad and Tobago x1995 0.686
+63 Trinidad and Tobago x1996 0.691
+63 Trinidad and Tobago x1997 0.699
+63 Trinidad and Tobago x1998 0.698
+63 Trinidad and Tobago x1999 0.717
+63 Trinidad and Tobago x2000 0.721
+63 Trinidad and Tobago x2001 0.729
+63 Trinidad and Tobago x2002 0.73
+63 Trinidad and Tobago x2003 0.744
+63 Trinidad and Tobago x2004 0.753
+63 Trinidad and Tobago x2005 0.751
+63 Trinidad and Tobago x2006 0.767
+63 Trinidad and Tobago x2007 0.777
+63 Trinidad and Tobago x2008 0.784
+63 Trinidad and Tobago x2009 0.786
+63 Trinidad and Tobago x2010 0.788
+63 Trinidad and Tobago x2011 0.786
+63 Trinidad and Tobago x2012 0.784
+63 Trinidad and Tobago x2013 0.787
+63 Trinidad and Tobago x2014 0.788
+63 Trinidad and Tobago x2015 0.796
+63 Trinidad and Tobago x2016 0.796
+63 Trinidad and Tobago x2017 0.799
+63 Trinidad and Tobago x2018 0.799
+63 Trinidad and Tobago x2019 0.799
+91 Tunisia x1990 0.569
+91 Tunisia x1991 0.575
+91 Tunisia x1992 0.583
+91 Tunisia x1993 0.589
+91 Tunisia x1994 0.6
+91 Tunisia x1995 0.607
+91 Tunisia x1996 0.616
+91 Tunisia x1997 0.623
+91 Tunisia x1998 0.635
+91 Tunisia x1999 0.645
+91 Tunisia x2000 0.653
+91 Tunisia x2001 0.661
+91 Tunisia x2002 0.666
+91 Tunisia x2003 0.673
+91 Tunisia x2004 0.682
+91 Tunisia x2005 0.689
+91 Tunisia x2006 0.695
+91 Tunisia x2007 0.701
+91 Tunisia x2008 0.708
+91 Tunisia x2009 0.71
+91 Tunisia x2010 0.717
+91 Tunisia x2011 0.719
+91 Tunisia x2012 0.721
+91 Tunisia x2013 0.725
+91 Tunisia x2014 0.728
+91 Tunisia x2015 0.731
+91 Tunisia x2016 0.736
+91 Tunisia x2017 0.738
+91 Tunisia x2018 0.739
+91 Tunisia x2019 0.739
+59 Turkey x1990 0.579
+59 Turkey x1991 0.583
+59 Turkey x1992 0.589
+59 Turkey x1993 0.597
+59 Turkey x1994 0.599
+59 Turkey x1995 0.607
+59 Turkey x1996 0.615
+59 Turkey x1997 0.624
+59 Turkey x1998 0.635
+59 Turkey x1999 0.643
+59 Turkey x2000 0.655
+59 Turkey x2001 0.661
+59 Turkey x2002 0.672
+59 Turkey x2003 0.679
+59 Turkey x2004 0.685
+59 Turkey x2005 0.691
+59 Turkey x2006 0.702
+59 Turkey x2007 0.709
+59 Turkey x2008 0.714
+59 Turkey x2009 0.721
+59 Turkey x2010 0.743
+59 Turkey x2011 0.759
+59 Turkey x2012 0.765
+59 Turkey x2013 0.781
+59 Turkey x2014 0.792
+59 Turkey x2015 0.8
+59 Turkey x2016 0.8
+59 Turkey x2017 0.805
+59 Turkey x2018 0.807
+59 Turkey x2019 0.807
+108 Turkmenistan x2010 0.673
+108 Turkmenistan x2011 0.68
+108 Turkmenistan x2012 0.686
+108 Turkmenistan x2013 0.691
+108 Turkmenistan x2014 0.696
+108 Turkmenistan x2015 0.701
+108 Turkmenistan x2016 0.706
+108 Turkmenistan x2017 0.708
+108 Turkmenistan x2018 0.71
+108 Turkmenistan x2019 0.71
+159 Uganda x1990 0.312
+159 Uganda x1991 0.312
+159 Uganda x1992 0.305
+159 Uganda x1993 0.312
+159 Uganda x1994 0.314
+159 Uganda x1995 0.32
+159 Uganda x1996 0.336
+159 Uganda x1997 0.35
+159 Uganda x1998 0.365
+159 Uganda x1999 0.381
+159 Uganda x2000 0.395
+159 Uganda x2001 0.403
+159 Uganda x2002 0.418
+159 Uganda x2003 0.427
+159 Uganda x2004 0.427
+159 Uganda x2005 0.434
+159 Uganda x2006 0.447
+159 Uganda x2007 0.457
+159 Uganda x2008 0.469
+159 Uganda x2009 0.478
+159 Uganda x2010 0.489
+159 Uganda x2011 0.494
+159 Uganda x2012 0.497
+159 Uganda x2013 0.503
+159 Uganda x2014 0.509
+159 Uganda x2015 0.515
+159 Uganda x2016 0.52
+159 Uganda x2017 0.522
+159 Uganda x2018 0.528
+159 Uganda x2019 0.528
+88 Ukraine x1990 0.705
+88 Ukraine x1991 0.701
+88 Ukraine x1992 0.692
+88 Ukraine x1993 0.681
+88 Ukraine x1994 0.668
+88 Ukraine x1995 0.664
+88 Ukraine x1996 0.661
+88 Ukraine x1997 0.663
+88 Ukraine x1998 0.665
+88 Ukraine x1999 0.667
+88 Ukraine x2000 0.671
+88 Ukraine x2001 0.681
+88 Ukraine x2002 0.689
+88 Ukraine x2003 0.699
+88 Ukraine x2004 0.706
+88 Ukraine x2005 0.715
+88 Ukraine x2006 0.722
+88 Ukraine x2007 0.729
+88 Ukraine x2008 0.733
+88 Ukraine x2009 0.727
+88 Ukraine x2010 0.732
+88 Ukraine x2011 0.737
+88 Ukraine x2012 0.742
+88 Ukraine x2013 0.744
+88 Ukraine x2014 0.747
+88 Ukraine x2015 0.742
+88 Ukraine x2016 0.746
+88 Ukraine x2017 0.747
+88 Ukraine x2018 0.75
+88 Ukraine x2019 0.75
+35 United Arab Emirates x1990 0.724
+35 United Arab Emirates x1991 0.735
+35 United Arab Emirates x1992 0.738
+35 United Arab Emirates x1993 0.745
+35 United Arab Emirates x1994 0.755
+35 United Arab Emirates x1995 0.764
+35 United Arab Emirates x1996 0.765
+35 United Arab Emirates x1997 0.766
+35 United Arab Emirates x1998 0.769
+35 United Arab Emirates x1999 0.776
+35 United Arab Emirates x2000 0.782
+35 United Arab Emirates x2001 0.787
+35 United Arab Emirates x2002 0.793
+35 United Arab Emirates x2003 0.798
+35 United Arab Emirates x2004 0.803
+35 United Arab Emirates x2005 0.809
+35 United Arab Emirates x2006 0.814
+35 United Arab Emirates x2007 0.819
+35 United Arab Emirates x2008 0.821
+35 United Arab Emirates x2009 0.819
+35 United Arab Emirates x2010 0.821
+35 United Arab Emirates x2011 0.826
+35 United Arab Emirates x2012 0.832
+35 United Arab Emirates x2013 0.839
+35 United Arab Emirates x2014 0.847
+35 United Arab Emirates x2015 0.86
+35 United Arab Emirates x2016 0.863
+35 United Arab Emirates x2017 0.864
+35 United Arab Emirates x2018 0.866
+35 United Arab Emirates x2019 0.866
+15 UK x1990 0.775
+15 UK x1991 0.787
+15 UK x1992 0.801
+15 UK x1993 0.813
+15 UK x1994 0.827
+15 UK x1995 0.839
+15 UK x1996 0.844
+15 UK x1997 0.849
+15 UK x1998 0.855
+15 UK x1999 0.861
+15 UK x2000 0.867
+15 UK x2001 0.871
+15 UK x2002 0.874
+15 UK x2003 0.878
+15 UK x2004 0.886
+15 UK x2005 0.89
+15 UK x2006 0.889
+15 UK x2007 0.892
+15 UK x2008 0.896
+15 UK x2009 0.899
+15 UK x2010 0.905
+15 UK x2011 0.899
+15 UK x2012 0.897
+15 UK x2013 0.914
+15 UK x2014 0.918
+15 UK x2015 0.916
+15 UK x2016 0.918
+15 UK x2017 0.919
+15 UK x2018 0.92
+15 UK x2019 0.92
+15 USA x1990 0.86
+15 USA x1991 0.862
+15 USA x1993 0.872
+15 USA x1994 0.875
+15 USA x1995 0.878
+15 USA x1996 0.879
+15 USA x1998 0.884
+15 USA x1999 0.885
+15 USA x2000 0.881
+15 USA x2001 0.884
+15 USA x2002 0.886
+15 USA x2003 0.889
+15 USA x2004 0.892
+15 USA x2005 0.896
+15 USA x2006 0.899
+15 USA x2007 0.902
+15 USA x2008 0.907
+15 USA x2009 0.908
+15 USA x2010 0.911
+15 USA x2011 0.914
+15 USA x2012 0.916
+15 USA x2013 0.914
+15 USA x2014 0.915
+15 USA x2015 0.917
+15 USA x2016 0.919
+15 USA x2017 0.919
+15 USA x2018 0.92
+15 USA x2019 0.92
+57 Uruguay x1990 0.692
+57 Uruguay x1991 0.697
+57 Uruguay x1992 0.7
+57 Uruguay x1993 0.703
+57 Uruguay x1994 0.709
+57 Uruguay x1995 0.711
+57 Uruguay x1996 0.717
+57 Uruguay x1997 0.727
+57 Uruguay x1998 0.735
+57 Uruguay x1999 0.737
+57 Uruguay x2000 0.742
+57 Uruguay x2001 0.745
+57 Uruguay x2002 0.747
+57 Uruguay x2003 0.75
+57 Uruguay x2004 0.754
+57 Uruguay x2005 0.756
+57 Uruguay x2006 0.761
+57 Uruguay x2007 0.763
+57 Uruguay x2008 0.767
+57 Uruguay x2009 0.779
+57 Uruguay x2010 0.774
+57 Uruguay x2011 0.783
+57 Uruguay x2012 0.788
+57 Uruguay x2013 0.797
+57 Uruguay x2014 0.8
+57 Uruguay x2015 0.802
+57 Uruguay x2016 0.806
+57 Uruguay x2017 0.807
+57 Uruguay x2018 0.808
+57 Uruguay x2019 0.808
+108 Uzbekistan x2000 0.596
+108 Uzbekistan x2001 0.603
+108 Uzbekistan x2002 0.61
+108 Uzbekistan x2003 0.615
+108 Uzbekistan x2004 0.622
+108 Uzbekistan x2005 0.629
+108 Uzbekistan x2006 0.635
+108 Uzbekistan x2007 0.646
+108 Uzbekistan x2008 0.653
+108 Uzbekistan x2009 0.658
+108 Uzbekistan x2010 0.665
+108 Uzbekistan x2011 0.672
+108 Uzbekistan x2012 0.681
+108 Uzbekistan x2013 0.688
+108 Uzbekistan x2014 0.693
+108 Uzbekistan x2015 0.696
+108 Uzbekistan x2016 0.701
+108 Uzbekistan x2017 0.707
+108 Uzbekistan x2018 0.71
+108 Uzbekistan x2019 0.71
+141 Vanuatu x2005 0.569
+141 Vanuatu x2006 0.575
+141 Vanuatu x2007 0.577
+141 Vanuatu x2008 0.584
+141 Vanuatu x2009 0.584
+141 Vanuatu x2010 0.585
+141 Vanuatu x2011 0.585
+141 Vanuatu x2012 0.584
+141 Vanuatu x2013 0.588
+141 Vanuatu x2014 0.589
+141 Vanuatu x2015 0.592
+141 Vanuatu x2016 0.592
+141 Vanuatu x2017 0.595
+141 Vanuatu x2018 0.597
+141 Vanuatu x2019 0.597
+96 Venezuela (Bolivarian Republic of) x1990 0.638
+96 Venezuela (Bolivarian Republic of) x1991 0.648
+96 Venezuela (Bolivarian Republic of) x1992 0.654
+96 Venezuela (Bolivarian Republic of) x1993 0.656
+96 Venezuela (Bolivarian Republic of) x1994 0.657
+96 Venezuela (Bolivarian Republic of) x1995 0.66
+96 Venezuela (Bolivarian Republic of) x1996 0.662
+96 Venezuela (Bolivarian Republic of) x1997 0.666
+96 Venezuela (Bolivarian Republic of) x1998 0.668
+96 Venezuela (Bolivarian Republic of) x1999 0.67
+96 Venezuela (Bolivarian Republic of) x2000 0.672
+96 Venezuela (Bolivarian Republic of) x2001 0.68
+96 Venezuela (Bolivarian Republic of) x2002 0.688
+96 Venezuela (Bolivarian Republic of) x2003 0.687
+96 Venezuela (Bolivarian Republic of) x2004 0.7
+96 Venezuela (Bolivarian Republic of) x2005 0.714
+96 Venezuela (Bolivarian Republic of) x2006 0.727
+96 Venezuela (Bolivarian Republic of) x2007 0.743
+96 Venezuela (Bolivarian Republic of) x2008 0.753
+96 Venezuela (Bolivarian Republic of) x2009 0.752
+96 Venezuela (Bolivarian Republic of) x2010 0.753
+96 Venezuela (Bolivarian Republic of) x2011 0.764
+96 Venezuela (Bolivarian Republic of) x2012 0.767
+96 Venezuela (Bolivarian Republic of) x2013 0.772
+96 Venezuela (Bolivarian Republic of) x2014 0.77
+96 Venezuela (Bolivarian Republic of) x2015 0.763
+96 Venezuela (Bolivarian Republic of) x2016 0.752
+96 Venezuela (Bolivarian Republic of) x2017 0.735
+96 Venezuela (Bolivarian Republic of) x2018 0.726
+96 Venezuela (Bolivarian Republic of) x2019 0.726
+118 Viet Nam x1990 0.475
+118 Viet Nam x1991 0.484
+118 Viet Nam x1992 0.496
+118 Viet Nam x1993 0.506
+118 Viet Nam x1994 0.517
+118 Viet Nam x1995 0.529
+118 Viet Nam x1996 0.54
+118 Viet Nam x1997 0.539
+118 Viet Nam x1998 0.559
+118 Viet Nam x1999 0.566
+118 Viet Nam x2000 0.578
+118 Viet Nam x2001 0.586
+118 Viet Nam x2002 0.594
+118 Viet Nam x2003 0.603
+118 Viet Nam x2004 0.612
+118 Viet Nam x2005 0.616
+118 Viet Nam x2006 0.624
+118 Viet Nam x2007 0.632
+118 Viet Nam x2008 0.639
+118 Viet Nam x2009 0.65
+118 Viet Nam x2010 0.653
+118 Viet Nam x2011 0.663
+118 Viet Nam x2012 0.668
+118 Viet Nam x2013 0.673
+118 Viet Nam x2014 0.675
+118 Viet Nam x2015 0.68
+118 Viet Nam x2016 0.685
+118 Viet Nam x2017 0.69
+118 Viet Nam x2018 0.693
+118 Viet Nam x2019 0.693
+177 Yemen x1990 0.392
+177 Yemen x1991 0.396
+177 Yemen x1992 0.395
+177 Yemen x1993 0.398
+177 Yemen x1994 0.398
+177 Yemen x1995 0.393
+177 Yemen x1996 0.408
+177 Yemen x1997 0.418
+177 Yemen x1998 0.43
+177 Yemen x1999 0.423
+177 Yemen x2000 0.432
+177 Yemen x2001 0.449
+177 Yemen x2002 0.456
+177 Yemen x2003 0.464
+177 Yemen x2004 0.471
+177 Yemen x2005 0.472
+177 Yemen x2006 0.478
+177 Yemen x2007 0.486
+177 Yemen x2008 0.488
+177 Yemen x2009 0.503
+177 Yemen x2010 0.499
+177 Yemen x2011 0.511
+177 Yemen x2012 0.501
+177 Yemen x2013 0.506
+177 Yemen x2014 0.504
+177 Yemen x2015 0.493
+177 Yemen x2016 0.477
+177 Yemen x2017 0.463
+177 Yemen x2018 0.463
+177 Yemen x2019 0.463
+143 Zambia x1990 0.424
+143 Zambia x1991 0.421
+143 Zambia x1992 0.42
+143 Zambia x1993 0.422
+143 Zambia x1994 0.418
+143 Zambia x1995 0.419
+143 Zambia x1996 0.419
+143 Zambia x1997 0.42
+143 Zambia x1998 0.419
+143 Zambia x1999 0.424
+143 Zambia x2000 0.428
+143 Zambia x2001 0.436
+143 Zambia x2002 0.445
+143 Zambia x2003 0.455
+143 Zambia x2004 0.464
+143 Zambia x2005 0.475
+143 Zambia x2006 0.486
+143 Zambia x2007 0.492
+143 Zambia x2008 0.507
+143 Zambia x2009 0.521
+143 Zambia x2010 0.531
+143 Zambia x2011 0.541
+143 Zambia x2012 0.552
+143 Zambia x2013 0.559
+143 Zambia x2014 0.565
+143 Zambia x2015 0.57
+143 Zambia x2016 0.58
+143 Zambia x2017 0.589
+143 Zambia x2018 0.591
+143 Zambia x2019 0.591
+150 Zimbabwe x1990 0.498
+150 Zimbabwe x1991 0.5
+150 Zimbabwe x1992 0.485
+150 Zimbabwe x1993 0.48
+150 Zimbabwe x1994 0.478
+150 Zimbabwe x1995 0.472
+150 Zimbabwe x1996 0.471
+150 Zimbabwe x1997 0.466
+150 Zimbabwe x1998 0.461
+150 Zimbabwe x1999 0.457
+150 Zimbabwe x2000 0.452
+150 Zimbabwe x2001 0.453
+150 Zimbabwe x2002 0.444
+150 Zimbabwe x2003 0.43
+150 Zimbabwe x2004 0.427
+150 Zimbabwe x2005 0.425
+150 Zimbabwe x2006 0.429
+150 Zimbabwe x2007 0.434
+150 Zimbabwe x2008 0.432
+150 Zimbabwe x2009 0.448
+150 Zimbabwe x2010 0.472
+150 Zimbabwe x2011 0.49
+150 Zimbabwe x2012 0.516
+150 Zimbabwe x2013 0.527
+150 Zimbabwe x2014 0.537
+150 Zimbabwe x2015 0.544
+150 Zimbabwe x2016 0.549
+150 Zimbabwe x2017 0.553
+150 Zimbabwe x2018 0.563
+150 Zimbabwe x2019 0.563
